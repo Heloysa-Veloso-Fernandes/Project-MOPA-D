@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NIUFLROB
 
 [Document2]
-DocumentPath=Sources\BlockDiagram.SchDoc
+DocumentPath=Sources\Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KPMXAANJ
+DocumentUniqueId=HQBWMOKU
 
 [Configuration1]
 Name=Sources
