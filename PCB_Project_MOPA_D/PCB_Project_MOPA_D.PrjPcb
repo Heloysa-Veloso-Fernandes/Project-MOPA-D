@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NIUFLROB
 
 [Document2]
-DocumentPath=Sources\Sheet1.SchDoc
+DocumentPath=Sources\BlockDiagram.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
