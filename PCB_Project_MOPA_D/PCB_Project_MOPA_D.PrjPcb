@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 ConstraintManagerFlow=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QZYSVOZE
 
 [Document6]
-DocumentPath=Libraries\SC0194(9).SchLib
+DocumentPath=Sources\PowerManagement.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,10 +149,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CRHNIAHW
+DocumentUniqueId=PDCIRGGG
 
 [Document7]
-DocumentPath=Libraries\MODULE_SC0194(9).PcbLib
+DocumentPath=Sources\I2C_Multiplexer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -166,7 +166,41 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NSXVKUJP
+DocumentUniqueId=FJXEYKMH
+
+[Document8]
+DocumentPath=Sources\VLOG_Conditioning.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOCZGXXS
+
+[Document9]
+DocumentPath=Sources\ADCInterface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SNDKVQXI
 
 [Configuration1]
 Name=Sources
@@ -1150,6 +1184,18 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=+3V3_ADC|NetColor=clAqua
+Net2=NetName=+3V3_ISO_DIG|NetColor=clLime
+Net3=NetName=+3V3_RPI|NetColor=$00FF0099
+Net4=NetName=+5V_AFE|NetColor=clYellow
+Net5=NetName=+5V_ISO|NetColor=$000099FF
+Net6=NetName=+5V_RPI|NetColor=$00E8864A
+Net7=NetName=GND_EXT|NetColor=$009999EA
+Net8=NetName=GND_ISO|NetColor=$009CCBF9
+Net9=NetName=GND_RPI|NetColor=$00D6A7B4
+Net10=NetName=VIN_EXT|NetColor=clRed
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
