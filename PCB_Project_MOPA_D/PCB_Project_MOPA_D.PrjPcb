@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDCIRGGG
 
 [Document6]
-DocumentPath=Sources\[5] AnalogChannels_1_2.SchDoc
+DocumentPath=Sources\[5] AnalogChannels_1_2_3_4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,24 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PLCOZBVJ
 
 [Document7]
-DocumentPath=Sources\[6] AnalogChannels_3_4.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TCOQQKTV
-
-[Document8]
-DocumentPath=Sources\[7] AnalogChannels_5_6.SchDoc
+DocumentPath=Sources\[6] AnalogChannels_5_6_7_8.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,25 +168,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JPGDZBSG
 
-[Document9]
-DocumentPath=Sources\[8] AnalogChannels_7_8.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JXDZFPCB
-
-[Document10]
-DocumentPath=Sources\[9] ADC_Acquisition.SchDoc
+[Document8]
+DocumentPath=Sources\[7] ADC_Acquisition.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -219,8 +185,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ISDQIRLS
 
-[Document11]
-DocumentPath=Sources\[10] I2C_Control.SchDoc
+[Document9]
+DocumentPath=Sources\[8] I2C_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYDUESJW
 
-[Document12]
+[Document10]
 DocumentPath=Sources\[3] TopLevel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +219,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=USNIBYBE
 
-[Document13]
-DocumentPath=Sources\[11] Mechanical.SchDoc
+[Document11]
+DocumentPath=Sources\[9] Mechanical.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
