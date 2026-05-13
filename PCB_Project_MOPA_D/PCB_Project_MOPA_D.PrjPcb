@@ -220,23 +220,6 @@ GenerateClassCluster=0
 DocumentUniqueId=USNIBYBE
 
 [Document11]
-DocumentPath=Sources\[9] Mechanical.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TDHHXTKI
-
-[Document12]
 DocumentPath=PCB_Project_MOPA_D.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1423,7 +1406,7 @@ Net1=NetName=+3.3V_ISO_LDO|NetColor=$00E9D2D9
 Net2=NetName=+3V3_ADC|NetColor=clAqua
 Net3=NetName=+3V3_ISO_DIG|NetColor=clLime
 Net4=NetName=+3V3_RPI|NetColor=$00FF0099
-Net5=NetName=+5V|NetColor=$00BDA6D5
+Net5=NetName=+5V|NetColor=$0099E5FF
 Net6=NetName=+5V_AFE|NetColor=clYellow
 Net7=NetName=+5V_ISO|NetColor=$000099FF
 Net8=NetName=+5V_ISO_LDO|NetColor=$00E8C59F
