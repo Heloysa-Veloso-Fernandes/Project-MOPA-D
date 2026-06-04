@@ -282,6 +282,10 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for PCB_Project_MOPA_D\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project_MOPA_D\Design Rule Check - PCB_MOPA.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
