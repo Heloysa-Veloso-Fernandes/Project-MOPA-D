@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=U1-6
+Change Component Designator: OldDesignator=D1 NewDesignator=DF1
+Change Component Designator: OldDesignator=D NewDesignator=D1
+Change Component Description : Designator=U5 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U6 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U7 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U8 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U9 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U10 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U11 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U12 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Added Component: Designator=R3(RC0402N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-071ML"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RC0402N_YAG)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-07390KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "390K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_2 Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U17-S1
+Add Pin To Net: Unknown Pin: Pin U17-S2
+Add Pin To Net: Unknown Pin: Pin U17-S3
+Add Pin To Net: Unknown Pin: Pin U17-S4
+Change Net Name : Old Net Name=NetD_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD_3 New Net Name=NetD1_3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R5-1
+Added Pin To Net: NetName=NetR3_2 Pin=U1-6
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L9 MPZ1608S601ATA00
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R3 RC0402FR-07220KL
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R5 RC0402FR-07390KL

@@ -1,0 +1,568 @@
+Protel Design System Design Rule Check
+PCB File : D:\home\github\heloysa\Project-MOPA-D\PCB_Project_MOPA_D\PCB_MOPA.PcbDoc
+Date     : 07/06/2026
+Time     : 07:11:12
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (OnLayer('Top Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.089mm) (Max=2.54mm) (Preferred=0.2mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (100.954mm,10.95mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (101.028mm,20.025mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (101.553mm,28.497mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (105.731mm,3.364mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (109.43mm,3.366mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (114.346mm,3.239mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (114.35mm,41.35mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (114.65mm,11.681mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (118.045mm,3.241mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (123.444mm,3.089mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (124.3mm,11.659mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (125.5mm,30.586mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (127.143mm,3.091mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (129.004mm,11.995mm) on Top Copper And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (131.943mm,3.089mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (132.522mm,11.659mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (135.642mm,3.091mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (141.016mm,3.064mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (141.425mm,11.49mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (144.715mm,3.066mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (149.947mm,11.331mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (77.65mm,17.485mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (94.502mm,47.28mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.024mm,16.071mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.025mm,12.372mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.299mm,24.922mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.3mm,21.223mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.624mm,33.524mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Arc (95.625mm,29.825mm) on Top Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C10-1(101.95mm,40.446mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C10-2(101.95mm,39.354mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C1-1(79.376mm,18.581mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C11-1(121.5mm,33.229mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C11-2(121.5mm,34.271mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C1-2(79.376mm,20.237mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C12-1(110.25mm,40.321mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C12-2(110.25mm,39.279mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C13-1(105.879mm,33.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C13-2(106.921mm,33.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C14-1(105.804mm,34.45mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C14-2(106.896mm,34.45mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C15-1(105.254mm,24.4mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C15-2(106.346mm,24.4mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C16-1(105.279mm,25.7mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C16-2(106.321mm,25.7mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C17-1(105.101mm,16.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C17-2(106.193mm,16.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C18-1(109.275mm,15.932mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C18-2(109.275mm,17.024mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C19-1(105.151mm,15.575mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C19-2(106.193mm,15.575mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C20-1(110.55mm,15.957mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C20-2(110.55mm,16.999mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C2-1(80.976mm,19.168mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C21-1(117.825mm,16.154mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C21-2(117.825mm,17.246mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C2-2(80.976mm,20.209mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C22-1(127.175mm,15.829mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C22-2(127.175mm,16.921mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C23-1(119.125mm,16.154mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C23-2(119.125mm,17.196mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C24-1(128.4mm,15.854mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C24-2(128.4mm,16.896mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C25-1(144.475mm,15.579mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C25-2(144.475mm,16.671mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C26-1(135.825mm,15.779mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C26-2(135.825mm,16.871mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C27-1(145.75mm,15.594mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C27-2(145.75mm,16.635mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C28-1(137.125mm,15.804mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C28-2(137.125mm,16.846mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C29-1(109.42mm,48.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C29-2(110.461mm,48.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C30-1(109.394mm,46.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C30-2(110.487mm,46.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C3-1(79.376mm,17.037mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C31-1(109.394mm,47.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C31-2(110.487mm,47.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C3-2(79.376mm,15.381mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C32-1(109.399mm,44.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C32-2(110.441mm,44.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C33-1(118.9mm,45.146mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C33-2(118.9mm,44.054mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C34-1(120.37mm,47.271mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C34-2(121.411mm,47.271mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C35-1(130.75mm,47.092mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C35-2(130.75mm,46.05mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C36-1(125.199mm,25.61mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C36-2(125.199mm,26.651mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C37-1(93.5mm,48.396mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C37-2(93.5mm,47.354mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C38-1(104.7mm,47.196mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C38-2(104.7mm,46.154mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C39-1(111.75mm,40.421mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C39-2(111.75mm,39.379mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C40-1(120.344mm,48.671mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C40-2(121.437mm,48.671mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C4-1(80.976mm,16.409mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C41-1(132.175mm,47.146mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C41-2(132.175mm,46.054mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C4-2(80.976mm,15.368mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C42-1(95.254mm,48.575mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C42-2(96.346mm,48.575mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C43-1(106.1mm,47.221mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C43-2(106.1mm,46.129mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C5-1(69.25mm,21.739mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C5-2(69.25mm,22.831mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C6-1(67.55mm,21.785mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C6-2(67.55mm,22.826mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C7-1(130.8mm,34.287mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C7-2(130.8mm,33.194mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C8-1(129.4mm,34.261mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C8-2(129.4mm,33.22mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C9-1(123mm,33.204mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad C9-2(123mm,34.296mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D1-1(95.625mm,32.255mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D1-2(95.625mm,34.795mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D1-3(94.355mm,33.525mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D2-1(95.3mm,23.653mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D2-2(95.3mm,26.193mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D2-3(94.03mm,24.923mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D3-1(95.025mm,14.802mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D3-2(95.025mm,17.342mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D3-3(93.755mm,16.072mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D4-1(107mm,3.366mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D4-2(104.46mm,3.366mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D4-3(105.73mm,2.096mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D5-1(115.615mm,3.241mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D5-2(113.075mm,3.241mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D5-3(114.345mm,1.971mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D6-1(124.713mm,3.091mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D6-2(122.173mm,3.091mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D6-3(123.443mm,1.821mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D7-1(133.212mm,3.091mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D7-2(130.672mm,3.091mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D7-3(131.942mm,1.821mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D8-1(142.285mm,3.066mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D8-2(139.745mm,3.066mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad D8-3(141.015mm,1.796mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L1-1(125.5mm,31.774mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L1-2(125.5mm,34.326mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L2-1(102.719mm,28.497mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L2-2(104.375mm,28.497mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L3-1(102.194mm,20.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L3-2(103.85mm,20.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L4-1(102.12mm,10.95mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L4-2(103.775mm,10.95mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L5-1(114.65mm,12.847mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L5-2(114.65mm,14.503mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L6-1(124.3mm,12.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L6-2(124.3mm,14.481mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L7-1(132.522mm,12.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L7-2(132.522mm,14.481mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L8-1(149.947mm,12.497mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L8-2(149.947mm,14.153mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L9-1(141.425mm,12.656mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad L9-2(141.425mm,14.312mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R10-1(106.406mm,22.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R10-2(105.288mm,22.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R1-1(77.509mm,15.46mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R11-1(102.95mm,33.213mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R11-2(102.95mm,34.331mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R1-2(76.391mm,15.46mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R12-1(102.5mm,24.513mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R12-2(102.5mm,25.631mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R13-1(104.45mm,34.331mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R13-2(104.45mm,33.213mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R14-1(103.9mm,25.631mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R14-2(103.9mm,24.513mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R15-1(103.631mm,13.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R15-2(102.513mm,13.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R16-1(106.256mm,13.25mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R16-2(105.138mm,13.25mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R17-1(112.9mm,14.606mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R17-2(112.9mm,13.488mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R18-1(112.85mm,17.131mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R18-2(112.85mm,16.013mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R19-1(102.422mm,15.666mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R19-2(102.422mm,16.784mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R20-1(110.534mm,13.378mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R20-2(109.416mm,13.378mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R2-1(74.709mm,15.51mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R21-1(103.822mm,16.784mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R21-2(103.822mm,15.666mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R2-2(73.591mm,15.51mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R22-1(109.366mm,14.628mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R22-2(110.484mm,14.628mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R23-1(121.65mm,14.509mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R23-2(121.65mm,13.391mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R24-1(121.65mm,17.109mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R24-2(121.65mm,15.991mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R25-1(130.95mm,14.418mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R25-2(130.95mm,13.3mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R26-1(130.297mm,16.984mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R26-2(130.297mm,15.866mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R27-1(119.134mm,13.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R27-2(118.016mm,13.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R28-1(128.284mm,13.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R28-2(127.166mm,13.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R29-1(117.957mm,14.775mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R29-2(119.075mm,14.775mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R30-1(127.166mm,14.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R30-2(128.284mm,14.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R3-1(71.441mm,3mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R31-1(139.9mm,14.268mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R31-2(139.9mm,13.15mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R3-2(72.559mm,3mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R32-1(139.2mm,16.893mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R32-2(139.2mm,15.775mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R33-1(148.525mm,14.234mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R33-2(148.525mm,13.116mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R34-1(147.797mm,16.734mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R34-2(147.797mm,15.616mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R35-1(137.109mm,13.2mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R35-2(135.991mm,13.2mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R36-1(145.662mm,12.925mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R36-2(144.544mm,12.925mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R37-1(135.966mm,14.45mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R37-2(137.084mm,14.45mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R38-1(144.544mm,14.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R38-2(145.662mm,14.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R39-1(116.409mm,46.25mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R39-2(115.291mm,46.25mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R40-1(115.659mm,28.475mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R40-2(114.541mm,28.475mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R4-1(113.725mm,46.341mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R41-1(122.65mm,28.634mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R41-2(122.65mm,27.516mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R4-2(113.725mm,47.459mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R42-1(123.9mm,27.534mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R42-2(123.9mm,26.416mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R43-1(103.3mm,47.234mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R43-2(103.3mm,46.116mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R44-1(104.459mm,44.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R44-2(103.341mm,44.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R45-1(135.741mm,46.35mm) on Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R45-2(136.859mm,46.35mm) on Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R5-1(66.941mm,3mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R5-2(68.059mm,3mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R6-1(135.741mm,43.575mm) on Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R6-2(136.859mm,43.575mm) on Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R7-1(104.306mm,30.747mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R7-2(103.188mm,30.747mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R8-1(106.931mm,30.747mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R8-2(105.813mm,30.747mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R9-1(103.806mm,22.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad R9-2(102.688mm,22.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-1(127.673mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-10(128.173mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-11(127.673mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-12(127.127mm,11.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-13(127.127mm,11.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-14(127.127mm,10.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-15(128.423mm,10.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-16(128.423mm,11.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-2(128.173mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-3(128.673mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-4(129.173mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-5(129.718mm,10.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-6(129.718mm,11.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-7(129.718mm,11.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-8(129.173mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U10-9(128.673mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-1(76.513mm,17.497mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-1(136.171mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-10(136.671mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-11(136.171mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-12(135.625mm,11.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-13(135.625mm,11.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-14(135.625mm,10.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-15(136.921mm,10.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-16(136.921mm,11.275mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-2(136.671mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-3(137.171mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-4(137.671mm,10.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-5(138.216mm,10.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-6(138.216mm,11.025mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-7(138.216mm,11.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-8(137.671mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U11-9(137.171mm,11.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-2(76.3mm,19.51mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-1(145.194mm,9.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-10(145.694mm,11.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-11(145.194mm,11.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-12(144.649mm,11.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-13(144.649mm,10.625mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-14(144.649mm,10.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-15(145.944mm,10.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-16(145.944mm,10.875mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-2(145.694mm,9.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-3(146.194mm,9.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-4(146.694mm,9.825mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-5(147.239mm,10.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-6(147.239mm,10.625mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-7(147.239mm,11.125mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-8(146.694mm,11.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U12-9(146.194mm,11.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-3(74mm,19.51mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-1(115.1mm,41.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-10(116.1mm,44.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-11(115.6mm,44.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-12(115.1mm,44.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-13(114.35mm,44mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-14(114.35mm,43.5mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-15(114.35mm,43mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-16(114.35mm,42.5mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-17(115.85mm,43.25mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-2(115.6mm,41.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-3(116.1mm,41.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-4(116.6mm,41.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-5(117.35mm,42.5mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-6(117.35mm,43mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-7(117.35mm,43.5mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-8(117.35mm,44mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U13-9(116.6mm,44.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-4(73.788mm,17.497mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-1(128.775mm,44.399mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-10(123.325mm,48.209mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-11(123.325mm,47.574mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-12(123.325mm,46.939mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-13(123.325mm,46.304mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-14(123.325mm,45.669mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-15(123.325mm,45.034mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-16(123.325mm,44.399mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-2(128.775mm,45.034mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-3(128.775mm,45.669mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-4(128.775mm,46.304mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-5(128.775mm,46.939mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-6(128.775mm,47.574mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-7(128.775mm,48.209mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-8(128.775mm,48.844mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U14-9(123.325mm,48.844mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-5(74.65mm,16.935mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-1(115.666mm,27.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-10(115.666mm,23.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-11(115.666mm,22.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-12(115.666mm,22.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-13(120.09mm,22.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-14(120.09mm,22.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-15(120.09mm,23.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-16(120.09mm,23.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-17(120.09mm,24.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-18(120.09mm,24.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-19(120.09mm,25.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-2(115.666mm,27.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-20(120.09mm,25.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-21(120.09mm,26.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-22(120.09mm,26.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-23(120.09mm,27.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-24(120.09mm,27.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-3(115.666mm,26.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-4(115.666mm,26.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-5(115.666mm,25.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-6(115.666mm,25.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-7(115.666mm,24.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-8(115.666mm,24.216mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U15-9(115.666mm,23.716mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-6(75.15mm,16.935mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-1(96.286mm,47.28mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-2(96.286mm,46.01mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-3(96.286mm,44.74mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-4(96.286mm,43.47mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-5(101.114mm,43.47mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-6(101.114mm,44.74mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-7(101.114mm,46.01mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U16-8(101.114mm,47.28mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-7(75.65mm,16.935mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(73.626mm,18.835mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(73.626mm,19.47mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(73.626mm,20.105mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(74.388mm,18.835mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(74.388mm,19.47mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(74.388mm,20.105mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(75.912mm,18.835mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(75.912mm,19.47mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(75.912mm,20.105mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(76.674mm,18.835mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(76.674mm,19.47mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U1-8(76.674mm,20.105mm) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-1(108.366mm,39.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-2(108.366mm,39.875mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-3(108.366mm,40.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-4(108.366mm,41.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-5(103.934mm,41.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-6(103.934mm,40.525mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-7(103.934mm,39.875mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-8(103.934mm,39.225mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U4-EPAD(106.15mm,40.2mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-1(99.925mm,33.796mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-10(101.525mm,33.296mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-11(101.525mm,33.796mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-12(101.225mm,34.341mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-13(100.725mm,34.341mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-14(100.225mm,34.341mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-15(100.525mm,33.046mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-16(100.975mm,33.046mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-2(99.925mm,33.296mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-3(99.925mm,32.796mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-4(99.925mm,32.296mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-5(100.225mm,31.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-6(100.725mm,31.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-7(101.225mm,31.75mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-8(101.525mm,32.296mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U5-9(101.525mm,32.796mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-1(99.6mm,25.194mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-10(101.2mm,24.694mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-11(101.2mm,25.194mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-12(100.9mm,25.739mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-13(100.4mm,25.739mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-14(99.9mm,25.739mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-15(100.2mm,24.444mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-16(100.65mm,24.444mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-2(99.6mm,24.694mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-3(99.6mm,24.194mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-4(99.6mm,23.694mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-5(99.9mm,23.149mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-6(100.4mm,23.149mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-7(100.9mm,23.149mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-8(101.2mm,23.694mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U6-9(101.2mm,24.194mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-1(99.325mm,16.342mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-10(100.925mm,15.842mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-11(100.925mm,16.342mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-12(100.625mm,16.888mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-13(100.125mm,16.888mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-14(99.625mm,16.888mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-15(99.925mm,15.592mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-16(100.375mm,15.592mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-2(99.325mm,15.842mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-3(99.325mm,15.342mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-4(99.325mm,14.842mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-5(99.625mm,14.297mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-6(100.125mm,14.297mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-7(100.625mm,14.297mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-8(100.925mm,14.842mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U7-9(100.925mm,15.342mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-1(109.859mm,10.453mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-10(110.359mm,12.053mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-11(109.859mm,12.053mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-12(109.314mm,11.753mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-13(109.314mm,11.253mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-14(109.314mm,10.753mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-15(110.609mm,11.053mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-16(110.609mm,11.503mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-2(110.359mm,10.453mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-3(110.859mm,10.453mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-4(111.359mm,10.453mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-5(111.905mm,10.753mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-6(111.905mm,11.253mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-7(111.905mm,11.753mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-8(111.359mm,12.053mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U8-9(110.859mm,12.053mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-1(118.574mm,10.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-10(119.074mm,11.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-11(118.574mm,11.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-12(118.029mm,11.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-13(118.029mm,11.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-14(118.029mm,10.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-15(119.324mm,10.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-16(119.324mm,11.425mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-2(119.074mm,10.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-3(119.574mm,10.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-4(120.074mm,10.375mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-5(120.62mm,10.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-6(120.62mm,11.175mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-7(120.62mm,11.675mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-8(120.074mm,11.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Pad U9-9(119.574mm,11.975mm) on Top Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (100.025mm,28.256mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (100.125mm,12.05mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (100.475mm,8.6mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (100.625mm,21.8mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (102.725mm,23.375mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (102.825mm,31.95mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (102.95mm,14.4mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (106.575mm,18.725mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (107.225mm,28.95mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (108.225mm,29.625mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (109.2mm,42.25mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (109.35mm,26.9mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (110.575mm,43.4mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (111.65mm,15.925mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (111.6mm,13.475mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (111.775mm,18.025mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (111.875mm,42.9mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (112.9mm,11.425mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (113.85mm,40.075mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (113.975mm,18.125mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (114.75mm,49.65mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (115.525mm,39.675mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (115.675mm,48.75mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (117.475mm,30.85mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (118.425mm,20.925mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (119.025mm,19.725mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (120.325mm,13.9mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (123.525mm,11.35mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (129.625mm,13.475mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (133.175mm,11.275mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (91.825mm,44.75mm) from Top Copper to Bottom Copper 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 0.3mm) Between Board Edge And Via (92.925mm,45.875mm) from Top Copper to Bottom Copper 
+Rule Violations :500
+
+Processing Rule : Matched Lengths(Tolerance=0.5mm) (InNetClass('SDCard'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:00
