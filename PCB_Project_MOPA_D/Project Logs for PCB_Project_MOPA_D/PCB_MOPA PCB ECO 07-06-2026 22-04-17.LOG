@@ -1,0 +1,130 @@
+Change Component Footprint: Designator=C2 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C4 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C6 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C8 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C10 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C13 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C16 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C18 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C20 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C22 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C24 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C26 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C28 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C30 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C32 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C35 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C38 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C39 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C41 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C43 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C44 Old Footprint=CAP_GCM15_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C11 Old Footprint=CAP_GRM155Z_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C14 Old Footprint=CAP_GRM155Z_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C15 Old Footprint=CAP_GRM155Z_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C36 Old Footprint=CAP_GRM155Z_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C12 Old Footprint=CAP_GRM1555_1XP5_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C5 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C7 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C9 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C17 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C19 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C21 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C23 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C25 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C27 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C29 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C31 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C33 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C34 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C37 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C40 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C42 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=C45 Old Footprint=G-155_MUR New Footprint=CAPC1005X40N
+Change Component Footprint: Designator=R1 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R2 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R3 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R4 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R5 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R6 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R7 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R8 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R9 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R10 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R11 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R12 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R13 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R14 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R15 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R16 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R17 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R18 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R19 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R20 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R21 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R22 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R23 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R24 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R25 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R26 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R27 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R28 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R29 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R30 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R31 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R32 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R33 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R34 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R35 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R36 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R37 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R38 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R39 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R40 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R41 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R42 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R43 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R44 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R45 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R46 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Footprint: Designator=R47 Old Footprint=RC0402N_YAG New Footprint=RESC1005X40N
+Change Component Description : Designator=C36 Old Description=Description New Description=1 µF ±10% 10V Ceramic Capacitor X7R 0402 (1005 Metric)
+Change component parameters: Designator = "C36" ("C36"); Footprint = "CAP_GRM155Z_MUR"; UniqueID = "\GNVGQBQY\MXJXKMLA\SFCOGPQR" ("\GNVGQBQY\MXJXKMLA\SFCOGPQR")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155Z71A105KE01D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-GRM155Z71A105KE01DCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C41" ("C41"); Footprint = "CAP_GCM15_MUR"; UniqueID = "\GNVGQBQY\QESBVZYR\IWNMMHOQ" ("\GNVGQBQY\QESBVZYR\IWNMMHOQ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10672-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C43" ("C43"); Footprint = "CAP_GCM15_MUR"; UniqueID = "\GNVGQBQY\QESBVZYR\UDDSHPNV" ("\GNVGQBQY\QESBVZYR\UDDSHPNV")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10672-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C44" ("C44"); Footprint = "CAP_GCM15_MUR"; UniqueID = "\GNVGQBQY\QESBVZYR\UTADFQFQ" ("\GNVGQBQY\QESBVZYR\UTADFQFQ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GCM155R71H104KE02D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10672-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"

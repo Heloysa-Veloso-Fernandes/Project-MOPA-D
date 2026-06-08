@@ -7,12 +7,23 @@
 - Manufacturer_Name
 - Manufacturer_Part_Number
 - Supplier 1
-- Supplier Part Number 1 
+- Supplier Part Number 1
 - Value
 - Datasheet Link
 
-RC_L Serie
-https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L
+## Footprints
+
+- Para componentes do tipo resistor 0402 - RESC1005X40N
+- Para componentes do tipo capacitor 0402 - CAPC1005X40N
+- Para componentes do tipo indutor 0402 - INDC1005X40N
+
+- Para componentes do tipo resistor 0603 - RESC1608X06N
+- Para componentes do tipo capacitor 0603 - CAPC1608X06N
+- Para componentes do tipo indutor 0603 - INDC1608X06N
+
+- Para componentes do tipo resistor 0805 - RESC2012X06N
+- Para componentes do tipo capacitor 0805 - CAPC2012X06N
+- Para componentes do tipo indutor 0805 - INDC2012X06N
 
 
 ## Componentes

@@ -1,0 +1,89 @@
+Removed Member From Class: ClassName=[7] ADC_Acquisition Member=C13
+Removed Member From Class: ClassName=[4] PowerManagement Member=C19
+Removed Member From Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=C27
+Removed Member From Class: ClassName=[4] PowerManagement Member=C31
+Removed Member From Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=C31
+Removed Member From Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=C33
+Removed Member From Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=C35
+Removed Member From Class: ClassName=[7] ADC_Acquisition Member=C41
+Removed Member From Class: ClassName=[7] ADC_Acquisition Member=C44
+Removed Member From Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=L4
+Removed Member From Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=LF1
+Removed Member From Class: ClassName=[4] PowerManagement Member=R40
+Removed Member From Class: ClassName=[4] PowerManagement Member=R46
+Added Component: Designator=U17(RPI_SHIELD)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Raspberry Pi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SC0194(9)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U3-9
+Added Pin To Net: NetName=+3V3RB Pin=U17-1
+Added Pin To Net: NetName=PCA_SDA Pin=U17-3
+Added Pin To Net: NetName=PCA_SCL Pin=U17-5
+Added Pin To Net: NetName=GNDRB Pin=U17-6
+Added Pin To Net: NetName=GNDRB Pin=U17-9
+Added Pin To Net: NetName=GNDRB Pin=U17-14
+Added Pin To Net: NetName=+3V3RB Pin=U17-17
+Added Pin To Net: NetName=NetR46_2 Pin=U17-19
+Added Pin To Net: NetName=GNDRB Pin=U17-20
+Added Pin To Net: NetName=ADC_SDO Pin=U17-21
+Added Pin To Net: NetName=NetR47_2 Pin=U17-23
+Added Pin To Net: NetName=ADC_CS Pin=U17-24
+Added Pin To Net: NetName=GNDRB Pin=U17-25
+Added Pin To Net: NetName=GNDRB Pin=U17-30
+Added Pin To Net: NetName=GNDRB Pin=U17-34
+Added Pin To Net: NetName=GNDRB Pin=U17-39
+Added Member To Class: ClassName=[4] PowerManagement Member=Component C8 GCM155R71H104KE02D
+Added Member To Class: ClassName=[4] PowerManagement Member=Component C9 GRM155R61A102KA01D
+Added Member To Class: ClassName=[4] PowerManagement Member=Component C10 GCM155R71H104KE02D
+Added Member To Class: ClassName=[4] PowerManagement Member=Component C14 GRM155Z71A105KE01D
+Added Member To Class: ClassName=[4] PowerManagement Member=Component C15 GRM155Z71A105KE01D
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component C17 GRM155R61A102KA01D
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component C18 GCM155R71H104KE02D
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component C22 GCM155R71H104KE02D
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component C23 GRM155R61A102KA01D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C24 GCM155R71H104KE02D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C25 GRM155R61A102KA01D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C26 GCM155R71H104KE02D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C28 GCM155R71H104KE02D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C29 GRM155R61A102KA01D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C30 GCM155R71H104KE02D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C32 GCM155R71H104KE02D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C34 GRM155R61A102KA01D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C36 GRM155Z71A105KE01D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C38 GCM155R71H104KE02D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C39 GCM155R71H104KE02D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component C40 GRM155R61A102KA01D
+Added Member To Class: ClassName=[8] I2C_Control Member=Component C43 GCM155R71H104KE02D
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component D2 MTPD1346D-150
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component D4 MTPD1346D-150
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component D8 MTPD1346D-150
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component L1 MPZ1608S601ATA00
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component L3 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L5 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L7 MPZ1608S601ATA00
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R2 RC0402FR-071ML
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R3 RC0402FR-0730KL
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R4 RC0402FR-07390KL
+Added Member To Class: ClassName=[4] PowerManagement Member=Component R6 RC0402FR-0712KL
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R9 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R10 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R11 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R13 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R17 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R18 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R19 RC0402FR-075K1L
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component R21 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R33 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R34 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R35 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R38 RC0402FR-075K1L
+Added Member To Class: ClassName=[8] I2C_Control Member=Component R42 RC0402FR-071K5L
+Added Member To Class: ClassName=[8] I2C_Control Member=Component R44 RC0402FR-071K5L
+Added Member To Class: ClassName=[4] PowerManagement Member=Component U4 LDCL015MR
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component U5 ADL5308ACCZ
+Added Member To Class: ClassName=[5] AnalogChannels_1_2_3_4 Member=Component U7 ADL5308ACCZ
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component U11 ADL5308ACCZ
+Added Member To Class: ClassName=Designator Member=Component U17 SC0194(9)
