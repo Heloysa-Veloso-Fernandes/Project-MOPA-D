@@ -1,0 +1,15 @@
+Component   : RDX0007A-MFG
+PCB Library : PCB-PCEIOT.PcbLib
+Date        : 08/06/2026
+Time        : 05:03:42
+
+
+
+Dimension : 4.877 x 4.75 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                12          0        0       0        0
+ Top Overlay                 0          3        0       1        0
+--------------------------------------------------------------------
+ Total                      12          3        0       1        0

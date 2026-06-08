@@ -1,0 +1,12 @@
+Change Footprint: Cannot match pads with new footprint in component :U1 Footprint:RDX0007A-MFG - 2
+Change component parameters: Designator = "U1" ("U1"); Footprint = "RDX0007A-MFG"; UniqueID = "\GNVGQBQY\XAQYNCCW\BOLJXYRB" ("\GNVGQBQY\XAQYNCCW\BOLJXYRB")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPSM863252RDXR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-TPSM863252RDXRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TYPE"; Value = "TYPE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TPSM863252RDXR"; VariantName = "[No Variations]"
