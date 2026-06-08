@@ -25,6 +25,9 @@
 - Para componentes do tipo capacitor 0805 - CAPC2012X06N
 - Para componentes do tipo indutor 0805 - INDC2012X06N
 
+- SODFL3618X143N - Pino 1 - Anodo
+
+
 
 ## I2C
 

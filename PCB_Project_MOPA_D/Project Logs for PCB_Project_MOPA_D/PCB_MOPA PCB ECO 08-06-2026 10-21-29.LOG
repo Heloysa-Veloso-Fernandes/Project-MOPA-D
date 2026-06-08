@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=U16 Old Footprint=D0008B-IPC_A New Footprint=SOIC127P600X175-8N
+Change component parameters: Designator = "U15" ("U15"); Footprint = "SOP50P490X110-24N"; UniqueID = "\GNVGQBQY\QESBVZYR\UMMFWOMM" ("\GNVGQBQY\QESBVZYR\UMMFWOMM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TCA9548ADGSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tca9548adgsr/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/tca9548a.pdf?ts=1738746169750&ref_url=https%253A%252F%252Fwww.mouser.de%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TCA9548ADGSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "595-TCA9548ADGSR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9548ADGSR?qs=olJun0bQHM%252B7USbLxm4jDw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "296-TCA9548ADGSRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TCA9548ADGSR"; VariantName = "[No Variations]"
