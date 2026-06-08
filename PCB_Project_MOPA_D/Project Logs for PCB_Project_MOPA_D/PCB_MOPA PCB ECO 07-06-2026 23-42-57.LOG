@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=ADC_SDO_ISO Pin=R40-2
+Removed Pin From Net: NetName=ADC_SDI Pin=R46-1
+Removed Pin From Net: NetName=ADC_SCLK Pin=R47-1
+Change Component Comment : Designator=R40 Old Comment=RC0402FR-075K1L New Comment=RC0402FR-0733RL
+Change Component Comment : Designator=R46 Old Comment=RC0402FR-075K1L New Comment=RC0402FR-0733RL
+Change Component Comment : Designator=R47 Old Comment=RC0402FR-075K1L New Comment=RC0402FR-0733RL
+Change component parameters: Designator = "R40" ("R40"); Footprint = "RESC1005X40N"; UniqueID = "\GNVGQBQY\MXJXKMLA\UWPZYFMH" ("\GNVGQBQY\MXJXKMLA\UWPZYFMH")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-33.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R46" ("R46"); Footprint = "RESC1005X40N"; UniqueID = "\GNVGQBQY\ZKLVELCF" ("\GNVGQBQY\ZKLVELCF")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-33.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R47" ("R47"); Footprint = "RESC1005X40N"; UniqueID = "\GNVGQBQY\LLOLABQQ" ("\GNVGQBQY\LLOLABQQ")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0402FR-0733RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "311-33.0LRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "33"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC_SDO_ISO Pin=R40-1
+Added Pin To Net: NetName=ADC_SDI Pin=R46-2
+Added Pin To Net: NetName=ADC_SCLK Pin=R47-2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U13-12
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR46_1 Pin=U17-19
+Added Net: Name=NetR46_1
+Added Pin To Net: NetName=NetR47_1 Pin=R47-1
+Added Pin To Net: NetName=NetR47_1 Pin=U17-23
+Added Net: Name=NetR47_1

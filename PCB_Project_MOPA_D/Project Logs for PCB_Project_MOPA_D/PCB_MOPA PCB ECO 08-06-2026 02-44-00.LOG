@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=L7 NewDesignator=L8
+Change Component Designator: OldDesignator=L8 NewDesignator=L7
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L7 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L8 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R31 RC0402FR-074K7L

@@ -1453,7 +1453,7 @@ Net2=NetName=+3V3_ADC|NetColor=clAqua
 Net3=NetName=+3V3_ISO|NetColor=$00FF6EFF
 Net4=NetName=+3V3_ISO_DIG|NetColor=clLime
 Net5=NetName=+3V3_RPI|NetColor=$00FF0099
-Net6=NetName=+3V3RB|NetColor=$006EFF6E
+Net6=NetName=+3V3RB|NetColor=$00FF39BC
 Net7=NetName=+5V_AFE|NetColor=clYellow
 Net8=NetName=+5V_ISO|NetColor=$000099FF
 Net9=NetName=+5V_ISO_LDO|NetColor=$00E8C59F

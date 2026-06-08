@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VLOG_OUT2 Pin=U13-15
+Removed Pin From Net: NetName=VLOG_OUT1 Pin=U13-16
+Added Pin To Net: NetName=VLOG_OUT1 Pin=U13-15
+Added Pin To Net: NetName=VLOG_OUT2 Pin=U13-16

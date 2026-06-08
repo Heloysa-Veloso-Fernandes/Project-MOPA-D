@@ -26,6 +26,30 @@
 - Para componentes do tipo indutor 0805 - INDC2012X06N
 
 
+## I2C
+
+- Pull-ups de 4K7 - 0402 em tudo
+- Pull-ups de 3k3 - 0402 no RPI (de backup sem conexao)
+
+## Vias 
+
+ - Hole/Diameter: 0.3 mm / 0.7 mm
+ - Hole/Diameter: 0.2 mm / 0.5 mm (Casos extremos)
+ - Track mudança de plano: 0.3/0.7 mm (1mm de distancia)
+ - Via para plano (0.3/0.7 mm)
+ 
+ 
+ 
+
+
+# 3D Body
+
+- No layer Mechanical 1
+
+D0008B-IPC_A
+
+
+
 ## Componentes
 
 ### Raspberry Pi 4 Model B SC0194(9) - RPI
@@ -38,7 +62,7 @@
 - Datasheet: https://www.snapeda.com/parts/SC0194(9)/Raspberry%20Pi/datasheet/
 - Utilização do barramento I2C.
 	- A RPI já possui pull-ups de 1K8
-	- Colocar pull-ups de 2K2 montados
+	- Colocar pull-ups de 3K3 de reserva mas sem colocar (backups)
 	- SDA (GPIO2/SDA1, Pino 3) - Bidirecional
 	- SCL (GPIO3/SCL1, Pino 5) - Bidirecional
 	- Pull-ups

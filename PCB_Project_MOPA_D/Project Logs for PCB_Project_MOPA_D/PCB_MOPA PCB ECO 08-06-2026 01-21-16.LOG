@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD1_3 New Net Name=NetD2_3
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD2_3 New Net Name=NetD1_3
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD3_3 New Net Name=NetD4_3
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD4_3 New Net Name=NetD3_3
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD7_3 New Net Name=NetD8_3
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD8_3 New Net Name=NetD7_3
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C28 GCM155R71H104KE02D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C29 GRM155R61A102KA01D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C30 GCM155R71H104KE02D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component C31 GRM155R61A102KA01D
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L6 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L7 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component L8 MPZ1608S601ATA00
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R31 RC0402FR-074K7L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R32 RC0402FR-074K7L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R33 RC0402FR-074K7L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R34 RC0402FR-074K7L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R35 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R36 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R37 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component R38 RC0402FR-075K1L
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component U11 ADL5308ACCZ
+Added Member To Class: ClassName=[6] AnalogChannels_5_6_7_8 Member=Component U12 ADL5308ACCZ
