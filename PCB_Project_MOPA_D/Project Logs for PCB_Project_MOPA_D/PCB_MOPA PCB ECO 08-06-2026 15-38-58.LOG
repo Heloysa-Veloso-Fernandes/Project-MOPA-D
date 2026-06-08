@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=ADC_SDI Pin=U14-2
+Removed Pin From Net: NetName=ADC_SCLK Pin=U14-3
+Removed Pin From Net: NetName=ADC_CS Pin=U14-4
+Removed Pin From Net: NetName=ADC_CS_ISO Pin=U14-13
+Removed Pin From Net: NetName=ADC_SCLK_ISO Pin=U14-14
+Removed Pin From Net: NetName=ADC_SDI_ISO Pin=U14-15
+Change Component Description : Designator=U5 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U6 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U7 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U8 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U9 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U10 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U11 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U12 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Added Pin To Net: NetName=ADC_CS Pin=U14-2
+Added Pin To Net: NetName=ADC_SDI Pin=U14-3
+Added Pin To Net: NetName=ADC_SCLK Pin=U14-4
+Added Pin To Net: NetName=ADC_SCLK_ISO Pin=U14-13
+Added Pin To Net: NetName=ADC_SDI_ISO Pin=U14-14
+Added Pin To Net: NetName=ADC_CS_ISO Pin=U14-15
