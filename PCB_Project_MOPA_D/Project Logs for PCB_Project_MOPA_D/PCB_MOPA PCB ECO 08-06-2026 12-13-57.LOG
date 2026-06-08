@@ -1,0 +1,31 @@
+Change Component Description : Designator=U5 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U6 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U7 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U8 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U9 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U10 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U11 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Change Component Description : Designator=U12 Old Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes New Description=Logarithmic Converter, 105Deg C, Lga-Ep Rohs Compliant: Yes |Analog Devices, Inc. ADL5308ACCZ
+Added Component: Designator=C46(CAPC1005X40N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2026 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM155R61A102KA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-6295-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QFN50P300X300X80-17N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADS7066IRTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ads7066irter/texas-instruments.html?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/ds/symlink/ads7066.pdf?ts=1708383444470&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS7066%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-null-null-GPN_EN-cpc-pf-google-wwe%2526utm_content%253D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADS7066IRTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ADS7066IRTER"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS7066IRTER?qs=ST9lo4GX8V1NXvZuWWBhPA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND2 Pin=C46-1
+Added Pin To Net: NetName=+3V3_ISO Pin=C46-2
+Added Member To Class: ClassName=[8] I2C_Control Member=Component C46 GRM155R61A102KA01D
+Added Member To Class: ClassName=[7] ADC_Acquisition Member=Component IC1 ADS7066IRTER
+Added Member To Class: ClassName=[8] I2C_Control Member=Component U15 TCA9548ADGSR
