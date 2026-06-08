@@ -1,0 +1,2171 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+@2 .no_pop
+@3 .comp_ignore
+@4 .comp_variant_list
+@5 .placement_layer
+
+#
+#Component attribute text strings
+#
+&0 top_layer
+
+# CMP 0
+CMP 1 27.29999874 36.99999966 180 N C46 GRM155R61A102KA01D ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155R61A102KA01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-6295-1-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 27.84999764 36.99999966 180 N 75 48 1
+TOP 1 26.74999984 36.99999966 180 N 6 17 2
+#
+# CMP 1
+CMP 13 24.8000012 32.50000104 0 N U15 TCA9548ADGSR ;0=1,1=0.0000,5=0
+PRP Arrow_Part_Number 'TCA9548ADGSR'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/tca9548adgsr/texas-instruments.html?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://www.ti.com/lit/ds/symlink/tca9548a.pdf?ts=1738746169750&ref_url=https%253A%252F%252Fwww.mouser.de%252F'
+PRP Height '1.1mm'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'TCA9548ADGSR'
+PRP Mouser_Part_Number '595-TCA9548ADGSR'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TCA9548ADGSR?qs=olJun0bQHM%252B7USbLxm4jDw%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '296-TCA9548ADGSRCT-ND'
+PRP Value 'TCA9548ADGSR'
+TOP 0 22.58800156 35.25000062 0 N 75 101 1
+TOP 1 22.58800156 34.75000162 0 N 75 100 2
+TOP 2 22.58800156 34.25000008 0 N 20 0 3
+TOP 3 22.58800156 33.75000108 0 N 51 1 4
+TOP 4 22.58800156 33.25000208 0 N 52 1 5
+TOP 5 22.58800156 32.75000054 0 N 49 1 6
+TOP 6 22.58800156 32.25000154 0 N 50 0 7
+TOP 7 22.58800156 31.75 0 N 43 1 8
+TOP 8 22.58800156 31.250001 0 N 44 1 9
+TOP 9 22.58800156 30.750002 0 N 41 2 10
+TOP 10 22.58800156 30.25000046 0 N 42 0 11
+TOP 11 22.58800156 29.75000146 0 N 75 102 12
+TOP 12 27.01200084 29.75000146 0 N 35 0 13
+TOP 13 27.01200084 30.25000046 0 N 36 0 14
+TOP 14 27.01200084 30.750002 0 N 33 0 15
+TOP 15 27.01200084 31.250001 0 N 34 0 16
+TOP 16 27.01200084 31.75 0 N 27 0 17
+TOP 17 27.01200084 32.25000154 0 N 28 2 18
+TOP 18 27.01200084 32.75000054 0 N 25 0 19
+TOP 19 27.01200084 33.25000208 0 N 26 2 20
+TOP 20 27.01200084 33.75000108 0 N 75 104 21
+TOP 21 27.01200084 34.25000008 0 N 11 0 22
+TOP 22 27.01200084 34.75000162 0 N 9 1 23
+TOP 23 27.01200084 35.25000062 0 N 6 18 24
+#
+# CMP 2
+CMP 8 48.49999952 41.19999888 180 N U1 TPSM863252RDXR ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'TPSM863252RDXR'
+PRP Parameter_2 ''
+PRP RefDes 'RefDes'
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-TPSM863252RDXRCT-ND'
+PRP Type 'TYPE'
+PRP Value 'TPSM863252RDXR'
+TOP 0 49.8124988 39.8874996 180 N 72 2 1
+TOP 1 49.64999976 41.8749988 180 N 0 14 2
+TOP 2 49.15000076 42.36499782 180 N 0 57 2
+TOP 3 49.15000076 41.86499882 180 N 0 56 2
+TOP 4 49.15000076 41.36499982 180 N 0 51 2
+TOP 5 50.14999876 42.36499782 180 N 0 50 2
+TOP 6 50.14999876 41.86499882 180 N 0 53 2
+TOP 7 50.14999876 41.36499982 180 N 0 52 2
+TOP 8 47.34999928 41.8749988 180 N 84 7 3
+TOP 9 47.84999828 42.36499782 180 N 84 13 3
+TOP 10 47.84999828 41.86499882 180 N 84 14 3
+TOP 11 47.84999828 41.36499982 180 N 84 11 3
+TOP 12 46.85000028 42.36499782 180 N 84 8 3
+TOP 13 46.85000028 41.86499882 180 N 84 9 3
+TOP 14 46.85000028 41.36499982 180 N 84 10 3
+TOP 15 47.21859492 39.92422038 180 N 73 6 4
+TOP 16 48.00000052 39.30000014 180 N 0 15 5
+TOP 17 48.49999952 39.30000014 180 N 5 2 6
+TOP 18 48.99999852 39.30000014 180 N 53 2 7
+#
+# CMP 3
+CMP 5 36.70000026 8.9750011 270 N L7 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 36.70000026 8.35000108 180 N 85 24 1
+TOP 1 36.70000026 9.60000112 180 N 88 4 2
+#
+# CMP 4
+CMP 1 37.7000008 9.05000222 270 N C31 GRT155R61A106ME13D ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 37.7000008 8.50000332 270 N 75 97 1
+TOP 1 37.7000008 9.60000112 270 N 88 3 2
+#
+# CMP 5
+CMP 10 32.50000104 52.49999914 0 N CN2 SC0194(9) ;0=2,1=0.0000,5=0
+PRP Check_prices 'https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=eda'
+PRP MF 'Raspberry Pi'
+PRP MP 'SC0194(9)'
+PRP Package 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/SC0194(9)/Raspberry+Pi/view-part/?ref=snap'
+PRP Value ''
+TOP 0 8.37000358 51.23000168 0 N 95 9 1
+TOP 1 8.37000358 53.77000168 0 N 0 43 2
+TOP 2 10.91000358 51.23000168 0 N 8 2 3
+TOP 3 10.91000358 53.77000168 0 N 0 44 4
+TOP 4 13.45000358 51.23000168 0 N 10 2 5
+TOP 5 13.45000358 53.77000168 0 N 74 12 6
+TOP 6 15.99000358 51.23000168 0 N 0 55 7
+TOP 7 15.99000358 53.77000168 0 N 0 41 8
+TOP 8 18.53000358 51.23000168 0 N 74 11 9
+TOP 9 18.53000358 53.77000168 0 N 0 42 10
+TOP 10 21.07000358 51.23000168 0 N 0 49 11
+TOP 11 21.07000358 53.77000168 0 N 0 47 12
+TOP 12 23.61000358 51.23000168 0 N 0 48 13
+TOP 13 23.61000358 53.77000168 0 N 74 9 14
+TOP 14 26.15000358 51.23000168 0 N 0 45 15
+TOP 15 26.15000358 53.77000168 0 N 0 46 16
+TOP 16 28.69000358 51.23000168 0 N 95 8 17
+TOP 17 28.69000358 53.77000168 0 N 0 58 18
+TOP 18 31.23000358 51.23000168 0 N 2 1 19
+TOP 19 31.23000358 53.77000168 0 N 74 15 20
+TOP 20 33.77000358 51.23000168 0 N 76 1 21
+TOP 21 33.77000358 53.77000168 0 N 0 68 22
+TOP 22 36.31000358 51.23000168 0 N 1 1 23
+TOP 23 36.31000358 53.77000168 0 N 82 1 24
+TOP 24 38.85000358 51.23000168 0 N 74 10 25
+TOP 25 38.85000358 53.77000168 0 N 0 67 26
+TOP 26 41.39000358 51.23000168 0 N 0 66 27
+TOP 27 41.39000358 53.77000168 0 N 0 71 28
+TOP 28 43.93000358 51.23000168 0 N 0 70 29
+TOP 29 43.93000358 53.77000168 0 N 74 13 30
+TOP 30 46.47000358 51.23000168 0 N 0 69 31
+TOP 31 46.47000358 53.77000168 0 N 0 59 32
+TOP 32 49.01000358 51.23000168 0 N 0 65 33
+TOP 33 49.01000358 53.77000168 0 N 74 14 34
+TOP 34 51.55000358 51.23000168 0 N 0 61 35
+TOP 35 51.55000358 53.77000168 0 N 0 64 36
+TOP 36 54.09000358 51.23000168 0 N 0 60 37
+TOP 37 54.09000358 53.77000168 0 N 0 63 38
+TOP 38 56.63000358 51.23000168 0 N 74 16 39
+TOP 39 56.63000358 53.77000168 0 N 0 62 40
+#
+# CMP 6
+CMP 16 4.40000644 39.80000168 90 N D1 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 4.40000644 38.53000168 90 N 75 72 1
+TOP 1 4.40000644 41.07000168 90 N 55 1 2
+TOP 2 3.13000644 39.80000168 90 N 54 1 3
+#
+# CMP 7
+CMP 1 9.05000476 42.69999842 0 N C19 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 8.50000586 42.69999842 0 N 75 60 1
+TOP 1 9.60000366 42.69999842 0 N 94 1 2
+#
+# CMP 8
+CMP 1 9.05000222 41.89999748 0 N C18 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 8.50000332 41.89999748 0 N 75 61 1
+TOP 1 9.60000112 41.89999748 0 N 94 2 2
+#
+# CMP 9
+CMP 5 9.00000232 43.69999896 0 N L1 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 8.3750023 43.69999896 270 N 85 10 1
+TOP 1 9.62500234 43.69999896 270 N 94 3 2
+#
+# CMP 10
+CMP 9 17.40000076 34.59999938 0 N R9 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 34.59999938 0 N 6 29 1
+TOP 1 17.94999966 34.59999938 0 N 52 2 2
+#
+# CMP 11
+CMP 9 17.40000076 35.69999972 0 N R10 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 35.69999972 0 N 6 24 1
+TOP 1 17.94999966 35.69999972 0 N 51 2 2
+#
+# CMP 12
+CMP 9 11.4000026 40.40459788 270 N R12 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 11.4000026 39.85459898 270 N 48 1 1
+TOP 1 11.4000026 40.95459678 270 N 47 0 2
+#
+# CMP 13
+CMP 9 12.5000004 41.54999818 270 N R14 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 12.5000004 40.99999928 270 N 47 1 1
+TOP 1 12.5000004 42.09999708 270 N 75 64 2
+#
+# CMP 14
+CMP 3 9.60000366 39.60459948 0 N U6 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 8.79990366 40.35460052 90 N 19 2 1
+TOP 1 8.79990366 39.85459898 90 N 54 0 2
+TOP 2 8.79990366 39.35459998 90 N 0 8 3
+TOP 3 8.79990366 38.85459844 90 N 19 1 4
+TOP 4 9.10000466 38.30919948 0 N 51 0 5
+TOP 5 9.60000366 38.30919948 0 N 52 0 6
+TOP 6 10.10000266 38.30919948 0 N 0 10 7
+TOP 7 10.40010366 38.85459844 270 N 0 9 8
+TOP 8 10.40010366 39.35459998 270 N 75 53 9
+TOP 9 10.40010366 39.85459898 270 N 48 0 10
+TOP 10 10.40010366 40.35460052 270 N 47 2 11
+TOP 11 10.10000266 40.89999948 180 N 0 2 12
+TOP 12 9.60000366 40.89999948 180 N 94 4 13
+TOP 13 9.10000466 40.89999948 180 N 55 0 14
+TOP 14 9.40000406 39.60459948 0 N 19 0 15
+TOP 15 9.85000316 39.60459948 0 N 75 45 16
+#
+# CMP 15
+CMP 16 4.40000644 29.80000136 90 N D2 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 4.40000644 28.53000136 90 N 75 73 1
+TOP 1 4.40000644 31.07000136 90 N 69 1 2
+TOP 2 3.13000644 29.80000136 90 N 68 1 3
+#
+# CMP 16
+CMP 1 9.09999958 32.90000024 0 N C17 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 8.55000068 32.90000024 0 N 75 46 1
+TOP 1 9.64999848 32.90000024 0 N 93 1 2
+#
+# CMP 17
+CMP 1 9.09999958 31.9999995 0 N C16 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 8.55000068 31.9999995 0 N 75 44 1
+TOP 1 9.64999848 31.9999995 0 N 93 2 2
+#
+# CMP 18
+CMP 5 8.99999978 33.90000078 0 N L2 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 8.37499976 33.90000078 270 N 85 11 1
+TOP 1 9.6249998 33.90000078 270 N 93 4 2
+#
+# CMP 19
+CMP 9 17.40000076 32.4999985 0 N R7 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 32.4999985 0 N 6 27 1
+TOP 1 17.94999966 32.4999985 0 N 50 1 2
+#
+# CMP 20
+CMP 9 17.40000076 33.59999884 0 N R8 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 33.59999884 0 N 6 28 1
+TOP 1 17.94999966 33.59999884 0 N 49 2 2
+#
+# CMP 21
+CMP 9 11.4000026 30.40459756 270 N R11 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 11.4000026 29.85459866 270 N 46 1 1
+TOP 1 11.4000026 30.95459646 270 N 45 0 2
+#
+# CMP 22
+CMP 9 12.5000004 31.54999786 270 N R13 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 12.5000004 30.99999896 270 N 45 1 1
+TOP 1 12.5000004 32.09999676 270 N 75 103 2
+#
+# CMP 23
+CMP 3 9.60000366 29.60459916 0 N U5 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 8.79990366 30.3546002 90 N 18 2 1
+TOP 1 8.79990366 29.85459866 90 N 68 0 2
+TOP 2 8.79990366 29.35459966 90 N 0 1 3
+TOP 3 8.79990366 28.85459812 90 N 18 1 4
+TOP 4 9.10000466 28.30919916 0 N 49 0 5
+TOP 5 9.60000366 28.30919916 0 N 50 2 6
+TOP 6 10.10000266 28.30919916 0 N 0 3 7
+TOP 7 10.40010366 28.85459812 270 N 0 5 8
+TOP 8 10.40010366 29.35459966 270 N 75 42 9
+TOP 9 10.40010366 29.85459866 270 N 46 0 10
+TOP 10 10.40010366 30.3546002 270 N 45 2 11
+TOP 11 10.10000266 30.89999916 180 N 0 4 12
+TOP 12 9.60000366 30.89999916 180 N 93 3 13
+TOP 13 9.10000466 30.89999916 180 N 69 0 14
+TOP 14 9.40000406 29.60459916 0 N 18 0 15
+TOP 15 9.85000316 29.60459916 0 N 75 43 16
+#
+# CMP 24
+CMP 16 4.40000644 19.80000104 90 N D3 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 4.40000644 18.53000104 90 N 75 71 1
+TOP 1 4.40000644 21.07000104 90 N 67 1 2
+TOP 2 3.13000644 19.80000104 90 N 66 1 3
+#
+# CMP 25
+CMP 1 9.0500073 22.70000032 0 N C23 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 8.5000084 22.70000032 0 N 75 47 1
+TOP 1 9.6000062 22.70000032 0 N 92 1 2
+#
+# CMP 26
+CMP 1 9.05000476 21.89999938 0 N C22 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 8.50000586 21.89999938 0 N 75 51 1
+TOP 1 9.60000366 21.89999938 0 N 92 2 2
+#
+# CMP 27
+CMP 5 9.00000486 23.70000086 0 N L3 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 8.37500484 23.70000086 270 N 85 16 1
+TOP 1 9.62500488 23.70000086 270 N 92 4 2
+#
+# CMP 28
+CMP 9 17.40000076 30.29999782 0 N R17 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 30.29999782 0 N 6 16 1
+TOP 1 17.94999966 30.29999782 0 N 44 2 2
+#
+# CMP 29
+CMP 9 17.40000076 31.39999816 0 N R18 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 31.39999816 0 N 6 6 1
+TOP 1 17.94999966 31.39999816 0 N 43 2 2
+#
+# CMP 30
+CMP 9 11.4000026 20.40459724 270 N R20 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 11.4000026 19.85459834 270 N 40 1 1
+TOP 1 11.4000026 20.95459614 270 N 39 0 2
+#
+# CMP 31
+CMP 9 12.49540554 21.50459504 270 N R22 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 12.49540554 20.95459614 270 N 39 1 1
+TOP 1 12.49540554 22.05459394 270 N 75 62 2
+#
+# CMP 32
+CMP 3 9.60000366 19.60459884 0 N U8 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 8.79990366 20.35459988 90 N 17 2 1
+TOP 1 8.79990366 19.85459834 90 N 66 0 2
+TOP 2 8.79990366 19.35459934 90 N 0 17 3
+TOP 3 8.79990366 18.8545978 90 N 17 1 4
+TOP 4 9.10000466 18.30919884 0 N 43 0 5
+TOP 5 9.60000366 18.30919884 0 N 44 0 6
+TOP 6 10.10000266 18.30919884 0 N 0 16 7
+TOP 7 10.40010366 18.8545978 270 N 0 18 8
+TOP 8 10.40010366 19.35459934 270 N 75 52 9
+TOP 9 10.40010366 19.85459834 270 N 40 2 10
+TOP 10 10.40010366 20.35459988 270 N 39 2 11
+TOP 11 10.10000266 20.89999884 180 N 0 20 12
+TOP 12 9.60000366 20.89999884 180 N 92 3 13
+TOP 13 9.10000466 20.89999884 180 N 67 0 14
+TOP 14 9.40000406 19.60459884 0 N 17 0 15
+TOP 15 9.85000316 19.60459884 0 N 75 50 16
+#
+# CMP 33
+CMP 16 10.69999892 4.4000039 0 N D4 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 11.96999892 4.4000039 0 N 75 83 1
+TOP 1 9.42999892 4.4000039 0 N 65 1 2
+TOP 2 10.69999892 3.1300039 0 N 64 1 3
+#
+# CMP 34
+CMP 1 7.79999964 9.05000476 270 N C21 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 7.79999964 8.50000586 270 N 75 96 1
+TOP 1 7.79999964 9.60000366 270 N 91 4 2
+#
+# CMP 35
+CMP 1 8.60000058 9.05000222 270 N C20 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 8.60000058 8.50000332 270 N 75 98 1
+TOP 1 8.60000058 9.60000112 270 N 91 3 2
+#
+# CMP 36
+CMP 5 6.7999991 9.00000232 270 N L4 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 6.7999991 8.3750023 180 N 85 21 1
+TOP 1 6.7999991 9.62500234 180 N 91 2 2
+#
+# CMP 37
+CMP 9 17.40000076 27.99999988 0 N R15 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 27.99999988 0 N 6 25 1
+TOP 1 17.94999966 27.99999988 0 N 42 1 2
+#
+# CMP 38
+CMP 9 17.40000076 29.19999748 0 N R16 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 16.85000186 29.19999748 0 N 6 26 1
+TOP 1 17.94999966 29.19999748 0 N 41 0 2
+#
+# CMP 39
+CMP 9 10.09540272 11.40000006 180 N R19 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 10.64540162 11.40000006 180 N 38 1 1
+TOP 1 9.54540382 11.40000006 180 N 37 2 2
+#
+# CMP 40
+CMP 9 9.05000222 12.5000004 180 N R21 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 9.60000112 12.5000004 180 N 37 0 1
+TOP 1 8.50000332 12.5000004 180 N 75 125 2
+#
+# CMP 41
+CMP 3 10.89540112 9.60000112 270 N U7 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 10.14540008 8.79990112 0 N 16 0 1
+TOP 1 10.64540162 8.79990112 0 N 64 0 2
+TOP 2 11.14540062 8.79990112 0 N 0 23 3
+TOP 3 11.64540216 8.79990112 0 N 16 1 4
+TOP 4 12.19080112 9.10000212 270 N 41 1 5
+TOP 5 12.19080112 9.60000112 270 N 42 2 6
+TOP 6 12.19080112 10.10000012 270 N 0 21 7
+TOP 7 11.64540216 10.40010112 180 N 0 22 8
+TOP 8 11.14540062 10.40010112 180 N 75 132 9
+TOP 9 10.64540162 10.40010112 180 N 38 2 10
+TOP 10 10.14540008 10.40010112 180 N 37 1 11
+TOP 11 9.60000112 10.10000012 90 N 0 29 12
+TOP 12 9.60000112 9.60000112 90 N 91 1 13
+TOP 13 9.60000112 9.10000212 90 N 65 0 14
+TOP 14 10.89540112 9.40000152 270 N 16 2 15
+TOP 15 10.89540112 9.85000062 270 N 75 133 16
+#
+# CMP 42
+CMP 16 20.6999967 4.4000039 0 N D5 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 21.9699967 4.4000039 0 N 75 85 1
+TOP 1 19.4299967 4.4000039 0 N 63 1 2
+TOP 2 20.6999967 3.1300039 0 N 62 1 3
+#
+# CMP 43
+CMP 1 17.70000016 9.05000476 270 N C25 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 17.70000016 8.50000586 270 N 75 95 1
+TOP 1 17.70000016 9.60000366 270 N 90 2 2
+#
+# CMP 44
+CMP 1 18.5000011 9.05000222 270 N C24 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 18.5000011 8.50000332 270 N 75 94 1
+TOP 1 18.5000011 9.60000112 270 N 90 4 2
+#
+# CMP 45
+CMP 5 16.69999962 9.00000232 270 N L5 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 16.69999962 8.3750023 180 N 85 22 1
+TOP 1 16.69999962 9.62500234 180 N 90 1 2
+#
+# CMP 46
+CMP 9 32.60000084 29.20000002 180 N R23 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 29.20000002 180 N 6 7 1
+TOP 1 32.05000194 29.20000002 180 N 36 2 2
+#
+# CMP 47
+CMP 9 32.60000084 27.99999988 180 N R24 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 27.99999988 180 N 6 8 1
+TOP 1 32.05000194 27.99999988 180 N 35 2 2
+#
+# CMP 48
+CMP 9 20.0954005 11.40000006 180 N R27 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 20.6453994 11.40000006 180 N 32 2 1
+TOP 1 19.5454016 11.40000006 180 N 31 0 2
+#
+# CMP 49
+CMP 9 19.05 12.5000004 180 N R29 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 19.5999989 12.5000004 180 N 31 1 1
+TOP 1 18.5000011 12.5000004 180 N 75 123 2
+#
+# CMP 50
+CMP 3 20.8953989 9.60000112 270 N U9 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 20.14539786 8.79990112 0 N 15 2 1
+TOP 1 20.6453994 8.79990112 0 N 62 0 2
+TOP 2 21.1453984 8.79990112 0 N 0 35 3
+TOP 3 21.64539994 8.79990112 0 N 15 1 4
+TOP 4 22.1907989 9.10000212 270 N 35 1 5
+TOP 5 22.1907989 9.60000112 270 N 36 1 6
+TOP 6 22.1907989 10.10000012 270 N 0 34 7
+TOP 7 21.64539994 10.40010112 180 N 0 7 8
+TOP 8 21.1453984 10.40010112 180 N 75 109 9
+TOP 9 20.6453994 10.40010112 180 N 32 0 10
+TOP 10 20.14539786 10.40010112 180 N 31 2 11
+TOP 11 19.5999989 10.10000012 90 N 0 6 12
+TOP 12 19.5999989 9.60000112 90 N 90 3 13
+TOP 13 19.5999989 9.10000212 90 N 63 0 14
+TOP 14 20.8953989 9.40000152 270 N 15 0 15
+TOP 15 20.8953989 9.85000062 270 N 75 105 16
+#
+# CMP 51
+CMP 16 30.69999702 4.4000039 0 N D6 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 31.96999702 4.4000039 0 N 75 87 1
+TOP 1 29.42999702 4.4000039 0 N 61 1 2
+TOP 2 30.69999702 3.1300039 0 N 60 1 3
+#
+# CMP 52
+CMP 1 27.69999794 9.05000476 270 N C27 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 27.69999794 8.50000586 270 N 75 126 1
+TOP 1 27.69999794 9.60000366 270 N 89 2 2
+#
+# CMP 53
+CMP 1 28.49999888 9.05000222 270 N C26 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 28.49999888 8.50000332 270 N 75 110 1
+TOP 1 28.49999888 9.60000112 270 N 89 3 2
+#
+# CMP 54
+CMP 5 26.6999974 9.00000232 270 N L6 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 26.6999974 8.3750023 180 N 85 19 1
+TOP 1 26.6999974 9.62500234 180 N 89 1 2
+#
+# CMP 55
+CMP 9 32.60000084 31.4000007 180 N R25 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 31.4000007 180 N 6 5 1
+TOP 1 32.05000194 31.4000007 180 N 34 2 2
+#
+# CMP 56
+CMP 9 32.60000084 30.30000036 180 N R26 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 30.30000036 180 N 6 2 1
+TOP 1 32.05000194 30.30000036 180 N 33 2 2
+#
+# CMP 57
+CMP 9 30.09540082 11.40000006 180 N R28 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 30.64539972 11.40000006 180 N 30 2 1
+TOP 1 29.54540192 11.40000006 180 N 29 0 2
+#
+# CMP 58
+CMP 9 28.95000052 12.5000004 180 N R30 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 29.49999942 12.5000004 180 N 29 1 1
+TOP 1 28.40000162 12.5000004 180 N 75 124 2
+#
+# CMP 59
+CMP 3 30.89539922 9.60000112 270 N U10 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 30.14539818 8.79990112 0 N 14 2 1
+TOP 1 30.64539972 8.79990112 0 N 60 0 2
+TOP 2 31.14539872 8.79990112 0 N 0 38 3
+TOP 3 31.64540026 8.79990112 0 N 14 1 4
+TOP 4 32.19079922 9.10000212 270 N 33 1 5
+TOP 5 32.19079922 9.60000112 270 N 34 1 6
+TOP 6 32.19079922 10.10000012 270 N 0 40 7
+TOP 7 31.64540026 10.40010112 180 N 0 39 8
+TOP 8 31.14539872 10.40010112 180 N 75 88 9
+TOP 9 30.64539972 10.40010112 180 N 30 1 10
+TOP 10 30.14539818 10.40010112 180 N 29 2 11
+TOP 11 29.59999922 10.10000012 90 N 0 32 12
+TOP 12 29.59999922 9.60000112 90 N 89 4 13
+TOP 13 29.59999922 9.10000212 90 N 61 0 14
+TOP 14 30.89539922 9.40000152 270 N 14 0 15
+TOP 15 30.89539922 9.85000062 270 N 75 90 16
+#
+# CMP 60
+CMP 16 40.69999734 4.4000039 0 N D7 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 41.96999734 4.4000039 0 N 75 86 1
+TOP 1 39.42999734 4.4000039 0 N 59 1 2
+TOP 2 40.69999734 3.1300039 0 N 58 1 3
+#
+# CMP 61
+CMP 1 38.4999992 9.05000222 270 N C30 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 38.4999992 8.50000332 270 N 75 127 1
+TOP 1 38.4999992 9.60000112 270 N 88 2 2
+#
+# CMP 62
+CMP 9 32.60000084 33.59999884 180 N R33 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 33.59999884 180 N 6 3 1
+TOP 1 32.05000194 33.59999884 180 N 28 1 2
+#
+# CMP 63
+CMP 9 32.60000084 32.50000104 180 N R34 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 32.50000104 180 N 6 4 1
+TOP 1 32.05000194 32.50000104 180 N 27 1 2
+#
+# CMP 64
+CMP 9 40.09540114 11.40000006 180 N R36 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 40.64540004 11.40000006 180 N 24 1 1
+TOP 1 39.54540224 11.40000006 180 N 23 2 2
+#
+# CMP 65
+CMP 9 39.05000064 12.5000004 180 N R38 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 39.59999954 12.5000004 180 N 23 0 1
+TOP 1 38.50000174 12.5000004 180 N 75 128 2
+#
+# CMP 66
+CMP 3 40.89539954 9.60000112 270 N U12 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 40.1453985 8.79990112 0 N 13 0 1
+TOP 1 40.64540004 8.79990112 0 N 58 0 2
+TOP 2 41.14539904 8.79990112 0 N 0 30 3
+TOP 3 41.64540058 8.79990112 0 N 13 1 4
+TOP 4 42.19079954 9.10000212 270 N 27 2 5
+TOP 5 42.19079954 9.60000112 270 N 28 0 6
+TOP 6 42.19079954 10.10000012 270 N 0 28 7
+TOP 7 41.64540058 10.40010112 180 N 0 26 8
+TOP 8 41.14539904 10.40010112 180 N 75 131 9
+TOP 9 40.64540004 10.40010112 180 N 24 2 10
+TOP 10 40.1453985 10.40010112 180 N 23 1 11
+TOP 11 39.59999954 10.10000012 90 N 0 27 12
+TOP 12 39.59999954 9.60000112 90 N 88 1 13
+TOP 13 39.59999954 9.10000212 90 N 59 0 14
+TOP 14 40.89539954 9.40000152 270 N 13 2 15
+TOP 15 40.89539954 9.85000062 270 N 75 129 16
+#
+# CMP 67
+CMP 3 50.89539986 9.60000112 270 N U11 ADL5308ACCZ ;0=1,1=0.0000,5=0
+PRP Category 'Integrated Circuits (ICs)'
+PRP ComponentLink1Description 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink1URL 'https://octopart.com:443/opatz8j6/c1?t=RA9GQZinOd29-lgehR1mMjPVps_pwNRaRgVV1YHzAIV5tl_XZCUSSAHitgBUBAYOkyHWZwhmuKnJMJd5RxR1VqE6m3xnviegrgL6shNBcrpF4LfPbYQ25RAGHFA1T9s0JOT-tl-QhPVPfLuNoqTz_6GGuiJfIxRC0S7r0DYLo04TjJESfYEQgeF8hwJXvZVADboypZr_g-Ea1XOnqBF-rgke93XuIMELyUETblR1X_UOadx82_PQ_RlLZBBqxzR00efRp-5niCJZslCBmJMmtGL_WYk9XjRWZNLGIjLbjTB1vQWuYu6Ttro&src-supplier=Analog+Devices'
+PRP ComponentLink2Description 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink2URL 'http://sigma.octopart.com:80/conflict_mineral_statement/Analog-Devices-company-33.pdf?src-supplier=Compliance+Statements'
+PRP ComponentLink3Description 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP ComponentLink3URL 'https://octopart.com:443/opatz8j6/c1?t=vRyEE9f1knuZsXfZ1EXV0igJkx_-mJPvDe2PRj94G0bMKfSINrZLJy9UxvHag1Ev7-JZTv2yES3irMYFchBWTpWzSwFH9zvLS0b9JOrPs9Pp2SMp_5VkKg4D-b9XM9N4Wk1jNVgkSgkhW8YH7ZyvkiIcKE_oeD_Hqil2BcqMABFddqLYAoPEQj49TJ_q7pMpzWSP-EVr2GWpI1kmAhJOGILngaZVyGxqQjwZ-ZoOI0z0mJCfXwlyMjB28ReNlNurs-8EToiXecBFaJGtKdUbF4KCBm4bpE5gucx16B8aD2Bl3eu5--byB1E&src-supplier=Compliance+Statements'
+PRP Datasheet_Link 'https://www.analog.com/media/en/technical-documentation/data-sheets/adl5308.pdf'
+PRP Manufacturer_Name 'Analog Devices'
+PRP Manufacturer_Part_Number 'ADL5308ACCZ'
+PRP Supplier 'DigiKey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number '505-ADL5308ACCZ-ND'
+PRP Supplier_Part_Number_1 '505-ADL5308ACCZ-ND'
+PRP Value 'ADL5308ACCZ'
+TOP 0 50.14539882 8.79990112 0 N 12 0 1
+TOP 1 50.64540036 8.79990112 0 N 56 0 2
+TOP 2 51.14539936 8.79990112 0 N 0 36 3
+TOP 3 51.6454009 8.79990112 0 N 12 1 4
+TOP 4 52.19079986 9.10000212 270 N 25 1 5
+TOP 5 52.19079986 9.60000112 270 N 26 0 6
+TOP 6 52.19079986 10.10000012 270 N 0 37 7
+TOP 7 51.6454009 10.40010112 180 N 0 24 8
+TOP 8 51.14539936 10.40010112 180 N 75 89 9
+TOP 9 50.64540036 10.40010112 180 N 22 1 10
+TOP 10 50.14539882 10.40010112 180 N 21 2 11
+TOP 11 49.59999986 10.10000012 90 N 0 25 12
+TOP 12 49.59999986 9.60000112 90 N 87 3 13
+TOP 13 49.59999986 9.10000212 90 N 57 0 14
+TOP 14 50.89539986 9.40000152 270 N 12 2 15
+TOP 15 50.89539986 9.85000062 270 N 75 93 16
+#
+# CMP 68
+CMP 9 49.00000106 12.5000004 180 N R37 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 49.54999996 12.5000004 180 N 21 0 1
+TOP 1 48.45000216 12.5000004 180 N 75 130 2
+#
+# CMP 69
+CMP 9 50.09540146 11.40000006 180 N R35 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 50.64540036 11.40000006 180 N 22 2 1
+TOP 1 49.54540256 11.40000006 180 N 21 1 2
+#
+# CMP 70
+CMP 9 32.60000084 34.59999938 180 N R32 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 34.59999938 180 N 6 13 1
+TOP 1 32.05000194 34.59999938 180 N 25 2 2
+#
+# CMP 71
+CMP 9 32.60000084 35.69999972 180 N R31 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 33.14999974 35.69999972 180 N 6 14 1
+TOP 1 32.05000194 35.69999972 180 N 26 1 2
+#
+# CMP 72
+CMP 5 46.69999804 9.00000232 270 N L8 MPZ1608S601ATA00 ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://product.tdk.com/en/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz1608_en.pdf'
+PRP Manufacturer_Name 'TDK'
+PRP Manufacturer_Part_Number 'MPZ1608S601ATA00'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_2 'Mouser'
+PRP Supplier_Part_Number_1 '445-MPZ1608S601ATA00CT-ND'
+PRP Supplier_Part_Number_2 '810-MPZ1608S601ATA00'
+PRP Type ''
+PRP Value 'MPZ1608S601ATA00'
+TOP 0 46.69999804 8.3750023 180 N 85 20 1
+TOP 1 46.69999804 9.62500234 180 N 87 4 2
+#
+# CMP 73
+CMP 1 48.49999952 9.05000222 270 N C28 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 48.49999952 8.50000332 270 N 75 122 1
+TOP 1 48.49999952 9.60000112 270 N 87 2 2
+#
+# CMP 74
+CMP 1 47.69999858 9.05000476 270 N C29 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 47.69999858 8.50000586 270 N 75 114 1
+TOP 1 47.69999858 9.60000366 270 N 87 1 2
+#
+# CMP 75
+CMP 15 55.40000096 18.09999936 0 N U4 LDCL015MR ;0=1,1=0.0000,5=0
+PRP Arrow_Part_Number 'LDCL015MR'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/ldcl015mr/stmicroelectronics?region=nac'
+PRP Datasheet_Link 'https://www.st.com/resource/en/datasheet/ldcl015.pdf'
+PRP Height '1.45mm'
+PRP Manufacturer_Name 'STMicroelectronics'
+PRP Manufacturer_Part_Number 'LDCL015MR'
+PRP Mouser_Part_Number '511-LDCL015MR'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDCL015MR?qs=GkDVaEP5dcuyqQ8OoCXIYg%3D%3D'
+PRP Parameter_1 '497-12085-1-ND'
+PRP Supplier_1 'Digikey'
+PRP Value 'LDCL015MR'
+TOP 0 54.15000092 19.05 0 N 85 15 1
+TOP 1 54.15000092 18.09999936 0 N 75 77 2
+TOP 2 54.15000092 17.14999872 0 N 85 14 3
+TOP 3 56.650001 17.14999872 0 N 4 2 4
+TOP 4 56.650001 19.05 0 N 6 20 5
+#
+# CMP 76
+CMP 9 57.90000104 16.59999982 90 N R6 RC0402FR-0712KL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0712KL'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '311-12.0KLRCT-ND'
+PRP Type ''
+PRP Value '12k'
+TOP 0 57.90000104 17.14999872 90 N 4 0 1
+TOP 1 57.90000104 16.05000092 90 N 75 92 2
+#
+# CMP 77
+CMP 9 49.30000046 35.99999912 0 N R4 RC0402FR-07390KL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-07390KL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 'YAG3143CT-ND'
+PRP Type ''
+PRP Value '390k'
+TOP 0 48.75000156 35.99999912 0 N 5 1 1
+TOP 1 49.84999936 35.99999912 0 N 73 4 2
+#
+# CMP 78
+CMP 9 49.30000046 36.99999966 180 N R2 RC0402FR-071ML ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-071ML'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-1.00MLRCT-ND'
+PRP Type ''
+PRP Value '1m'
+TOP 0 49.84999936 36.99999966 180 N 72 5 1
+TOP 1 48.75000156 36.99999966 180 N 5 0 2
+#
+# CMP 79
+CMP 1 54.69999982 15.79999888 180 N C15 GRM155Z71A105KE01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155Z71A105KE01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRM155Z71A105KE01DCT-ND'
+PRP Type ''
+PRP Value '1uF'
+TOP 0 55.24999872 15.79999888 180 N 75 80 1
+TOP 1 54.15000092 15.79999888 180 N 85 17 2
+#
+# CMP 80
+CMP 1 59.40000058 19.3999993 180 N C14 GRM155Z71A105KE01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155Z71A105KE01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRM155Z71A105KE01DCT-ND'
+PRP Type ''
+PRP Value '1uF'
+TOP 0 59.94999948 19.3999993 180 N 75 49 1
+TOP 1 58.85000168 19.3999993 180 N 6 22 2
+#
+# CMP 81
+CMP 9 58.79999924 17.70000016 90 N R5 RC0402FR-0737K4L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0737K4L'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 'YAG3138CT-ND'
+PRP Type ''
+PRP Value '37.4k'
+TOP 0 58.79999924 18.24999906 90 N 6 23 1
+TOP 1 58.79999924 17.15000126 90 N 4 1 2
+#
+# CMP 82
+CMP 0 43.00000036 37.5000012 90 N U2 B0505S-2WR3 ;0=2,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://www.mornsun-power.com/html/pdf/B0505S-2WR3.html'
+PRP Manufacturer_Name 'MORNSUN'
+PRP Manufacturer_Part_Number 'B0505S-2WR3'
+PRP RefDes 'RefDes'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '2725-B0505S-2WR3-ND'
+PRP Type 'DC DC Converters'
+PRP Value 'B0505S-2WR3'
+TOP 0 43.00000036 37.5000012 90 N 84 12 1
+TOP 1 43.00000036 34.9600012 90 N 73 8 2
+TOP 2 43.00000036 29.8800012 90 N 75 78 4
+TOP 3 43.00000036 24.8000012 90 N 71 2 6
+#
+# CMP 83
+CMP 12 20.9050001 43.7949975 270 N U16 ISO1640BDR ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://www.ti.com/lit/ds/symlink/iso1640.pdf'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'ISO1640BDR'
+PRP RefDes 'RefDes'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-ISO1640BDRCT-ND'
+PRP Type 'TYPE'
+PRP Value 'ISO1640BDR'
+TOP 0 19.0000001 41.08299632 270 N 6 21 1
+TOP 1 20.2700001 41.08299632 270 N 9 0 2
+TOP 2 21.5400001 41.08299632 270 N 11 2 3
+TOP 3 22.8100001 41.08299632 270 N 75 81 4
+TOP 4 22.8100001 46.50699868 270 N 74 4 5
+TOP 5 21.5400001 46.50699868 270 N 10 1 6
+TOP 6 20.2700001 46.50699868 270 N 8 1 7
+TOP 7 19.0000001 46.50699868 270 N 95 12 8
+#
+# CMP 84
+CMP 14 30.69999956 43.9000011 90 N U14 ISO7762FDBQR ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://www.ti.com/lit/ds/symlink/iso7760.pdf?ts=1712058534565&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fen-us%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DISO7760DBQR%2526nr%253D9'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'ISO7762FDBQR'
+PRP RefDes 'RefDes'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '296-49452-1-ND'
+PRP Type 'TYPE'
+PRP Value 'ISO7762FDBQR'
+TOP 0 32.92199918 46.61100152 90 N 95 7 1
+TOP 1 32.28799994 46.61100152 90 N 82 0 2
+TOP 2 31.65199918 46.61100152 90 N 80 1 3
+TOP 3 31.01799994 46.61100152 90 N 78 1 4
+TOP 4 30.38199918 46.61100152 90 N 0 13 5
+TOP 5 29.74799994 46.61100152 90 N 76 0 6
+TOP 6 29.11199918 46.61100152 90 N 0 11 7
+TOP 7 28.47799994 46.61100152 90 N 74 8 8
+TOP 8 28.47799994 41.18900068 90 N 75 79 9
+TOP 9 29.11199918 41.18900068 90 N 0 12 10
+TOP 10 29.74799994 41.18900068 90 N 77 1 11
+TOP 11 30.38199918 41.18900068 90 N 0 19 12
+TOP 12 31.01799994 41.18900068 90 N 79 0 13
+TOP 13 31.65199918 41.18900068 90 N 81 1 14
+TOP 14 32.28799994 41.18900068 90 N 83 0 15
+TOP 15 32.92199918 41.18900068 90 N 86 12 16
+#
+# CMP 85
+CMP 7 28.09999968 20.49999964 270 N U13 ADS7066IRTER ;0=1,1=0.0000,5=0
+PRP Arrow_Part_Number 'ADS7066IRTER'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/ads7066irter/texas-instruments.html?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://www.ti.com/lit/ds/symlink/ads7066.pdf?ts=1708383444470&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FADS7066%253Futm_source%253Dgoogle%2526utm_medium%253Dcpc%2526utm_campaign%253Dasc-null-null-GPN_EN-cpc-pf-google-wwe%2526utm_content%253D'
+PRP Geometry.Height '0.8mm'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'ADS7066IRTER'
+PRP Mouser_Part_Number '595-ADS7066IRTER'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ADS7066IRTER?qs=ST9lo4GX8V1NXvZuWWBhPA%3D%3D'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '296-ADS7066IRTERCT-ND'
+PRP Value 'ADS7066IRTER'
+TOP 0 27.34999864 19.0000001 270 N 40 0 1
+TOP 1 27.85000018 19.0000001 270 N 38 0 2
+TOP 2 28.34999918 19.0000001 270 N 32 1 3
+TOP 3 28.85000072 19.0000001 270 N 30 0 4
+TOP 4 29.59999922 19.7499986 180 N 24 0 5
+TOP 5 29.59999922 20.25000014 180 N 22 0 6
+TOP 6 29.59999922 20.74999914 180 N 86 11 7
+TOP 7 29.59999922 21.25000068 180 N 70 1 8
+TOP 8 28.85000072 21.99999918 270 N 75 108 9
+TOP 9 28.34999918 21.99999918 270 N 86 10 10
+TOP 10 27.85000018 21.99999918 270 N 83 1 11
+TOP 11 27.34999864 21.99999918 270 N 3 1 12
+TOP 12 26.60000014 21.25000068 180 N 81 0 13
+TOP 13 26.60000014 20.74999914 180 N 79 1 14
+TOP 14 26.60000014 20.25000014 180 N 48 2 15
+TOP 15 26.60000014 19.7499986 180 N 46 2 16
+TOP 16 28.09999968 20.49999964 180 N 75 106 17
+TOP 17 27.52000084 19.9200008 270 N 75 65 17
+TOP 18 27.52000084 21.07999848 270 N 75 66 17
+TOP 19 28.67999852 21.07999848 270 N 75 70 17
+TOP 20 28.09999968 20.49999964 270 N 75 74 17
+TOP 21 28.67999852 19.9200008 270 N 75 75 17
+#
+# CMP 86
+CMP 17 55.80000016 23.60000106 180 N U3 TLV76750DGNR ;0=1,1=0.0000,5=0
+PRP Arrow_Part_Number ''
+PRP Arrow_Price/Stock ''
+PRP Datasheet_Link 'https://www.ti.com/lit/gpn/tlv767'
+PRP Geometry.Height '1.1mm'
+PRP Manufacturer_Name 'Texas Instruments'
+PRP Manufacturer_Part_Number 'TLV76750DGNR'
+PRP Mouser_Part_Number '595-TLV76750DGNR'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV76750DGNR?qs=QNEnbhJQKvaJEVkWGWZhnw%3D%3D'
+TOP 0 58.01615016 22.62502206 180 N 86 13 1
+TOP 1 58.01615016 23.27500806 180 N 86 16 2
+TOP 2 58.01615016 23.92499406 180 N 0 33 3
+TOP 3 58.01615016 24.57498006 180 N 75 107 4
+TOP 4 53.58385016 24.57498006 180 N 85 12 5
+TOP 5 53.58385016 23.92499406 180 N 75 99 6
+TOP 6 53.58385016 23.27500806 180 N 0 31 7
+TOP 7 53.58385016 22.62502206 180 N 85 18 8
+TOP 8 55.80000016 23.60000106 180 N 75 91 9
+TOP 9 55.80000016 23.60000106 180 N 75 84 9
+TOP 10 55.29200016 22.96500106 180 N 75 76 9
+TOP 11 55.29200016 24.23500106 180 N 75 68 9
+TOP 12 56.30800016 24.23500106 180 N 75 69 9
+TOP 13 56.30800016 22.96500106 180 N 75 67 9
+#
+# CMP 87
+CMP 9 31.8999997 48.79999892 90 N R47 RC0402FR-0733RL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0733RL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-33.0LRCT-ND'
+PRP Type ''
+PRP Value '33'
+TOP 0 31.8999997 49.34999782 90 N 1 0 1
+TOP 1 31.8999997 48.25000002 90 N 80 0 2
+#
+# CMP 88
+CMP 9 18.14999926 49.30000046 0 N R45 RC0402FR-073K3L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-073K3L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-3.30KLRCT-ND'
+PRP Type ''
+PRP Value '3.3k'
+TOP 0 17.60000036 49.30000046 0 N 95 5 1
+TOP 1 18.69999816 49.30000046 0 N 10 0 2
+#
+# CMP 89
+CMP 9 18.14999926 48.20000012 0 N R44 RC0402FR-073K3L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-073K3L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-3.30KLRCT-ND'
+PRP Type ''
+PRP Value '3.3k'
+TOP 0 17.60000036 48.20000012 0 N 95 4 1
+TOP 1 18.69999816 48.20000012 0 N 8 0 2
+#
+# CMP 90
+CMP 9 23.2674922 39.51250924 180 N R43 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 23.8174911 39.51250924 180 N 6 11 1
+TOP 1 22.7174933 39.51250924 180 N 11 1 2
+#
+# CMP 91
+CMP 9 19.72499992 39.47500106 0 N R42 RC0402FR-074K7L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-074K7L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-4.7KLRCT-ND'
+PRP Type ''
+PRP Value '4.7k'
+TOP 0 19.17500102 39.47500106 0 N 6 10 1
+TOP 1 20.27499882 39.47500106 0 N 9 2 2
+#
+# CMP 92
+CMP 9 20.59999944 37.19999926 90 N R41 RC0402FR-075K1L ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-075K1L'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-5.10KLRDKR-ND'
+PRP Type ''
+PRP Value '5.1k'
+TOP 0 20.59999944 37.74999816 90 N 6 19 1
+TOP 1 20.59999944 36.65000036 90 N 20 1 2
+#
+# CMP 93
+CMP 9 27.24999884 25.0000008 270 N R39 RC0402FR-0710KL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0710KL'
+PRP RefDes ''
+PRP Supplier 'Digikey'
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-10.0KLRCT-ND'
+PRP Type ''
+PRP Value '10k'
+TOP 0 27.24999884 24.4500019 270 N 86 6 1
+TOP 1 27.24999884 25.5499997 270 N 83 2 2
+#
+# CMP 94
+CMP 9 30.99999896 48.79999892 90 N R46 RC0402FR-0733RL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0733RL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-33.0LRCT-ND'
+PRP Type ''
+PRP Value '33'
+TOP 0 30.99999896 49.34999782 90 N 2 0 1
+TOP 1 30.99999896 48.25000002 90 N 78 0 2
+#
+# CMP 95
+CMP 9 25.7999992 25.0000008 90 N R40 RC0402FR-0733RL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0733RL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-33.0LRCT-ND'
+PRP Type ''
+PRP Value '33'
+TOP 0 25.7999992 25.5499997 90 N 77 0 1
+TOP 1 25.7999992 24.4500019 90 N 3 0 2
+#
+# CMP 96
+CMP 9 45.99999944 35.65000236 90 N R3 RC0402FR-0730KL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-0730KL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-30.0KLRCT-ND'
+PRP Type ''
+PRP Value '30k'
+TOP 0 45.99999944 36.20000126 90 N 53 0 1
+TOP 1 45.99999944 35.10000346 90 N 73 5 2
+#
+# CMP 97
+CMP 9 45.50000044 37.600001 0 N R1 RC0402FR-07220KL ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://yageogroup.com/content/datasheet/asset/file/PYU-RC_GROUP_51_ROHS_L'
+PRP Manufacturer_Name 'Yageo'
+PRP Manufacturer_Part_Number 'RC0402FR-07220KL'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '311-220KLRCT-ND'
+PRP Type ''
+PRP Value '220k'
+TOP 0 44.95000154 37.600001 0 N 84 5 1
+TOP 1 46.04999934 37.600001 0 N 53 1 2
+#
+# CMP 98
+CMP 4 47.59999878 23.70000086 180 N LF1 BRL3225T470K ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/610/BRL3225T470K_SS.pdf'
+PRP Manufacturer_Name 'TAIYO YUDEN'
+PRP Manufacturer_Part_Number 'BRL3225T470K'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '587-2169-1-ND'
+PRP Type ''
+PRP Value '47uF'
+TOP 0 48.87634878 23.70000086 180 N 85 13 1
+TOP 1 46.32364878 23.70000086 180 N 71 3 2
+#
+# CMP 99
+CMP 16 50.69999766 4.4000039 0 N D8 MTPD1346D-150 ;0=2,1=0.0000,5=0
+PRP Datasheet_Link 'https://specs.marktechopto.com/pdf/products/datasheet/MTPD1346D-150.pdf'
+PRP Manufacturer_Name 'Marktech Optoelectronics'
+PRP Manufacturer_Part_Number 'MTPD1346D-150'
+PRP Package 'TO-46-3 Marktech Optoelectronics'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/MTPD1346D-150/Marktech%20Optoelectronics/view-part/2762424/?ref=snap'
+PRP Supplier_1 'Digikey'
+PRP Supplier_Part_Number_1 '1125-1327-ND'
+PRP Value 'MTPD1346D-150'
+TOP 0 51.96999766 4.4000039 0 N 75 82 1
+TOP 1 49.42999766 4.4000039 0 N 57 1 2
+TOP 2 50.69999766 3.1300039 0 N 56 1 3
+#
+# CMP 100
+CMP 11 51.99573802 36.07500024 90 N DF1 SS34FA ;0=1,1=0.0000,5=0
+PRP Arrow_Part_Number 'SS34FA'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/ss34fa/on-semiconductor?utm_currency=USD&region=nac'
+PRP Datasheet_Link 'https://www.onsemi.com/pub/Collateral/SS36FA-D.PDF'
+PRP Geometry.Height '1.43mm'
+PRP Manufacturer_Name 'onsemi'
+PRP Manufacturer_Part_Number 'SS34FA'
+PRP Mouser_Part_Number '512-SS34FA'
+PRP Mouser_Price/Stock 'https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS34FA?qs=R26iFe%2FkX%2FK1QUwZdCmBBw%3D%3D'
+TOP 0 51.99573802 37.62499968 0 N 72 4 1
+TOP 1 51.99573802 34.5250008 0 N 7 0 2
+#
+# CMP 101
+CMP 6 59.60000018 37.5000012 180 N CN1 JDCN2.0 ;0=2,1=0.0000,5=0
+PRP Datasheet_1 ''
+PRP Datasheet_2 ''
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number ''
+PRP Package ''
+PRP Price_1 ''
+PRP Price_2 ''
+PRP Supplier_1 ''
+PRP Supplier_2 'DigiKey'
+PRP Supplier_Link_1 ''
+PRP Supplier_Link_2 ''
+PRP Supplier_Part_Number_1 ''
+PRP Supplier_Part_Number_2 'CP-037A-ND'
+PRP Value ''
+TOP 0 59.60000018 34.00000058 180 N 7 1 1
+TOP 1 59.60000018 41.00000182 180 N 73 7 2
+TOP 2 54.60000002 37.5000012 90 N 0 54 3
+#
+# CMP 102
+CMP 1 16.50000002 45.30000084 0 N C45 GRM155R61A102KA01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155R61A102KA01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-6295-1-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 15.95000112 45.30000084 0 N 74 6 1
+TOP 1 17.04999892 45.30000084 0 N 95 3 2
+#
+# CMP 103
+CMP 1 16.50000002 40.04999864 90 N C42 GRM155R61A102KA01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155R61A102KA01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-6295-1-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 16.50000002 40.59999754 90 N 75 63 1
+TOP 1 16.50000002 39.49999974 90 N 6 9 2
+#
+# CMP 104
+CMP 1 36.24999862 46.59999824 180 N C40 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 36.79999752 46.59999824 180 N 74 7 1
+TOP 1 35.69999972 46.59999824 180 N 95 6 2
+#
+# CMP 105
+CMP 1 34.59999938 41.70000042 180 N C37 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 35.14999828 41.70000042 180 N 75 59 1
+TOP 1 34.05000048 41.70000042 180 N 86 7 2
+#
+# CMP 106
+CMP 1 60.29999878 23.29999912 180 N C13 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 60.84999768 23.29999912 180 N 75 55 1
+TOP 1 59.74999988 23.29999912 180 N 86 8 2
+#
+# CMP 107
+CMP 1 16.50000002 46.50000098 0 N C44 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 15.95000112 46.50000098 0 N 74 5 1
+TOP 1 17.04999892 46.50000098 0 N 95 10 2
+#
+# CMP 108
+CMP 1 17.51374704 40.03625216 90 N C43 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 17.51374704 40.58625106 90 N 75 54 1
+TOP 1 17.51374704 39.48625326 90 N 6 12 2
+#
+# CMP 109
+CMP 1 27.29999874 36.09999892 180 N C41 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 27.84999764 36.09999892 180 N 75 56 1
+TOP 1 26.74999984 36.09999892 180 N 6 15 2
+#
+# CMP 110
+CMP 1 36.24999862 45.6999975 180 N C39 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 36.79999752 45.6999975 180 N 74 3 1
+TOP 1 35.69999972 45.6999975 180 N 95 11 2
+#
+# CMP 111
+CMP 1 34.59999938 40.69999988 180 N C38 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 35.14999828 40.69999988 180 N 75 58 1
+TOP 1 34.05000048 40.69999988 180 N 86 3 2
+#
+# CMP 112
+CMP 1 31.7000001 23.29999912 180 N C36 GRM155Z71A105KE01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155Z71A105KE01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRM155Z71A105KE01DCT-ND'
+PRP Type ''
+PRP Value '1uF'
+TOP 0 32.249999 23.29999912 180 N 75 57 1
+TOP 1 31.1500012 23.29999912 180 N 70 0 2
+#
+# CMP 113
+CMP 1 31.69999756 21.09999844 180 N C35 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 32.24999646 21.09999844 180 N 75 118 1
+TOP 1 31.14999866 21.09999844 180 N 86 4 2
+#
+# CMP 114
+CMP 1 31.7000001 22.19999878 180 N C34 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 32.249999 22.19999878 180 N 75 117 1
+TOP 1 31.1500012 22.19999878 180 N 86 5 2
+#
+# CMP 115
+CMP 1 29.49999942 25.0000008 90 N C33 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 29.49999942 25.5499997 90 N 75 119 1
+TOP 1 29.49999942 24.4500019 90 N 86 9 2
+#
+# CMP 116
+CMP 1 28.55000132 25.0000008 90 N C32 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 28.55000132 25.5499997 90 N 75 121 1
+TOP 1 28.55000132 24.4500019 90 N 86 14 2
+#
+# CMP 117
+CMP 1 60.29999878 22.19999878 180 N C12 GRM155R61A475MEAAD ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155R61A475MEAAD'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-14306-1-ND'
+PRP Type ''
+PRP Value '4.7uF'
+TOP 0 60.84999768 22.19999878 180 N 75 120 1
+TOP 1 59.74999988 22.19999878 180 N 86 15 2
+#
+# CMP 118
+CMP 1 46.19999904 26.50000034 90 N C8 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 46.19999904 27.04999924 90 N 75 116 1
+TOP 1 46.19999904 25.95000144 90 N 71 1 2
+#
+# CMP 119
+CMP 1 53.59999948 26.3499981 90 N C11 GRM155Z71A105KE01D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRM155Z71A105KE01D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRM155Z71A105KE01DCT-ND'
+PRP Type ''
+PRP Value '1uF'
+TOP 0 53.59999948 26.899997 90 N 75 112 1
+TOP 1 53.59999948 25.7999992 90 N 85 23 2
+#
+# CMP 120
+CMP 1 47.49999898 26.50000034 90 N C7 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 47.49999898 27.04999924 90 N 75 111 1
+TOP 1 47.49999898 25.95000144 90 N 71 0 2
+#
+# CMP 121
+CMP 1 48.35000236 20.1999977 0 N C10 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 47.80000346 20.1999977 0 N 75 113 1
+TOP 1 48.90000126 20.1999977 0 N 85 26 2
+#
+# CMP 122
+CMP 1 48.35000236 21.39999784 0 N C9 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 47.80000346 21.39999784 0 N 75 115 1
+TOP 1 48.90000126 21.39999784 0 N 85 25 2
+#
+# CMP 123
+CMP 1 44.6999995 41.19999888 270 N C6 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 44.6999995 40.64999998 270 N 73 9 1
+TOP 1 44.6999995 41.74999778 270 N 84 6 2
+#
+# CMP 124
+CMP 1 45.60000024 41.19999888 270 N C5 GRT155R61A106ME13D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRT155R61A106ME13-01A.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GRT155R61A106ME13D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-GRT155R61A106ME13DCT-ND'
+PRP Type ''
+PRP Value '10uF'
+TOP 0 45.60000024 40.64999998 270 N 73 13 1
+TOP 1 45.60000024 41.74999778 270 N 84 4 2
+#
+# CMP 125
+CMP 1 52.24999964 41.09999908 180 N C4 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 52.79999854 41.09999908 180 N 73 14 1
+TOP 1 51.70000074 41.09999908 180 N 72 1 2
+#
+# CMP 126
+CMP 2 52.32500076 42.49999882 180 N C3 CL10A106MA8NRNC ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2025 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/658/CL10A106MA8NRNC_Spec.pdf'
+PRP Manufacturer_Name 'Samsung'
+PRP Manufacturer_Part_Number 'CL10A106MA8NRNC'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '1276-1869-1-ND'
+PRP Type ''
+PRP Value '10 µF'
+TOP 0 52.95000078 42.49999882 90 N 73 11 1
+TOP 1 51.70000074 42.49999882 90 N 72 3 2
+#
+# CMP 127
+CMP 1 39.59999954 41.09999908 90 N C2 GCM155R71H104KE02D ;0=1,1=0.0000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GCM155R71H104KE02-01.pdf'
+PRP Manufacturer_Name 'Murata'
+PRP Manufacturer_Part_Number 'GCM155R71H104KE02D'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '490-10672-1-ND'
+PRP Type ''
+PRP Value '100nF'
+TOP 0 39.59999954 41.64999798 90 N 73 12 1
+TOP 1 39.59999954 40.55000018 90 N 84 2 2
+#
+# CMP 128
+CMP 2 40.79999968 41.09999908 90 N C1 CL10A226MO7JZNC ;0=1,1=0.6000,5=0
+PRP Copyright 'Copyright (C) 2026 Ultra Librarian. All rights reserved.'
+PRP Datasheet_Link 'https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/2139/CL10A226MO7JZNC_Spec.pdf'
+PRP Manufacturer_Name 'Samsung'
+PRP Manufacturer_Part_Number 'CL10A226MO7JZNC'
+PRP RefDes ''
+PRP Supplier_1 'DigiKey'
+PRP Supplier_Part_Number_1 '1276-7076-1-ND'
+PRP Type ''
+PRP Value '22uF'
+TOP 0 40.79999968 41.7249991 0 N 73 10 1
+TOP 1 40.79999968 40.47499906 0 N 84 3 2
+#

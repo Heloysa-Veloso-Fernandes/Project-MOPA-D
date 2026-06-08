@@ -1,0 +1,22 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB_MOPA.GBR   08/06/2026  20:38:26
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Top Ref                                 
+.gbr                Bottom Ref                              
+.gbr                Bottom Layer                            
+.gbr                Top Overlay                             
+.gbr                Board Layer Stack Bottom Overlay        
+.gbr                Top Mask                                
+.gbr                Board Layer Stack Bottom Solder         
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+------------------------------------------------------------------------------------------
